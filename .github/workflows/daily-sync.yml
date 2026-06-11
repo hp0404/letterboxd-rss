@@ -1,16 +1,12 @@
-name: Sync Letterboxd RSS
+name: Daily sync
 
 on:
-  schedule:
-    - cron: "17 4 * * *" # daily, 04:17 UTC
   workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
 
 permissions:
   contents: write
-
-concurrency:
-  group: sync
-  cancel-in-progress: false
 
 jobs:
   sync:
@@ -19,8 +15,6 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: astral-sh/setup-uv@v5
-        with:
-          enable-cache: true
 
       - name: Run sync
         run: uv run sync.py

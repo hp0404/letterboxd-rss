@@ -24,7 +24,7 @@ new activity produces no commit.
 | `sync.py` | The whole pipeline: fetch RSS → parse → upsert SQLite → export JSON |
 | `data/letterboxd.json` | Full accumulated dataset as one pretty-printed JSON file (for version control / easy consumption) |
 | `data/letterboxd.sqlite` | The same data as a relational SQLite database |
-| `.github/workflows/sync.yml` | Daily GitHub Actions workflow (04:17 UTC + manual trigger) |
+| `.github/workflows/daily-sync.yml` | Daily GitHub Actions workflow (04:17 UTC + manual trigger) |
 
 ## Data model
 
@@ -60,7 +60,7 @@ LETTERBOXD_RSS_URL="https://letterboxd.com/<username>/rss/" uv run sync.py
 
 ## Automation
 
-`.github/workflows/sync.yml` runs daily and can also be triggered manually from
+`.github/workflows/daily-sync.yml` runs daily and can also be triggered manually from
 the Actions tab (`workflow_dispatch`). If the sync produced changes under
 `data/`, the workflow commits and pushes them as `github-actions[bot]`.
 
