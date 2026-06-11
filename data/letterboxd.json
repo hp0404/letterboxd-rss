@@ -958,10 +958,10 @@
       "guid": "letterboxd-list-82088800",
       "title": "top 2026",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2026/",
-      "description_html": "<p>to be updated</p> <ul> <li> <a href=\"https://letterboxd.com/film/rose-2026/\">Rose</a> </li> <li> <a href=\"https://letterboxd.com/film/peaky-blinders-the-immortal-man/\">Peaky Blinders: The Immortal Man</a> </li> <li> <a href=\"https://letterboxd.com/film/ach-diese-lucke-diese-entsetzliche-lucke/\">Ach, diese Lücke, diese entsetzliche Lücke</a> </li> </ul>",
+      "description_html": "<p>to be updated</p> <ul> <li> <a href=\"https://letterboxd.com/film/rose-2026/\">Rose</a> </li> <li> <a href=\"https://letterboxd.com/film/yellow-letters/\">Yellow Letters</a> </li> <li> <a href=\"https://letterboxd.com/film/peaky-blinders-the-immortal-man/\">Peaky Blinders: The Immortal Man</a> </li> <li> <a href=\"https://letterboxd.com/film/ach-diese-lucke-diese-entsetzliche-lucke/\">Ach, diese Lücke, diese entsetzliche Lücke</a> </li> </ul>",
       "pub_date": "2026-03-30T11:54:40+13:00",
       "first_seen_at": "2026-06-11T22:33:14+00:00",
-      "updated_at": "2026-06-11T22:33:14+00:00",
+      "updated_at": "2026-06-11T22:51:05+00:00",
       "films": [
         {
           "position": 1,
@@ -970,11 +970,16 @@
         },
         {
           "position": 2,
+          "title": "Yellow Letters",
+          "url": "https://letterboxd.com/film/yellow-letters/"
+        },
+        {
+          "position": 3,
           "title": "Peaky Blinders: The Immortal Man",
           "url": "https://letterboxd.com/film/peaky-blinders-the-immortal-man/"
         },
         {
-          "position": 3,
+          "position": 4,
           "title": "Ach, diese Lücke, diese entsetzliche Lücke",
           "url": "https://letterboxd.com/film/ach-diese-lucke-diese-entsetzliche-lucke/"
         }
