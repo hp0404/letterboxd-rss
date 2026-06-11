@@ -1,9 +1,10 @@
 # letterboxd-rss
 
-A GitHub-based scraping project that archives a Letterboxd user's public RSS feed
-(<https://letterboxd.com/bugfreedisco/rss/>). It runs automatically as a **GitHub
-Actions** workflow once a day, parses the feed, and commits the data back to this
-repository in two formats: a human-diffable JSON file and a SQLite database.
+A GitHub-based scraping project that archives a Letterboxd user's public RSS feed.
+It runs automatically as a **GitHub Actions** workflow once a day, parses the feed,
+and commits the data back to this repository in two formats: a human-diffable JSON
+file and a SQLite database. The feed URL is configured in `sync.py` (or via the
+`LETTERBOXD_RSS_URL` environment variable).
 
 ## Why accumulate?
 
