@@ -22,8 +22,11 @@ new activity produces no commit.
 | Path | Purpose |
 |---|---|
 | `sync.py` | The whole pipeline: fetch RSS → parse → upsert SQLite → export JSON |
+| `backfill.py` | One-off importer: parses saved review pages from `exports/` into `data/backfill/page*.json` |
+| `merge.py` | One-off merge: combines `data/backfill/page*.json` into SQLite + `data/letterboxd.json` |
 | `data/letterboxd.json` | Full accumulated dataset as one pretty-printed JSON file (for version control / easy consumption) |
 | `data/letterboxd.sqlite` | The same data as a relational SQLite database |
+| `data/backfill/` | Parsed per-page backfill data (`page*.json`) and the combined `all.json` |
 | `.github/workflows/daily-sync.yml` | Daily GitHub Actions workflow (04:17 UTC + manual trigger) |
 
 ## Data model
@@ -70,7 +73,18 @@ account keeps it alive.
 
 ## Backfilling older history
 
-Since the RSS feed cannot return entries older than the last ~50, the full
-history can only be imported from Letterboxd's official export
-(Settings → Data → Export), which provides CSV files. A one-off importer for
-that export would be a natural extension of this project.
+Since the RSS feed cannot return entries older than the last ~50, older
+reviews are imported from review pages saved manually in the browser
+(`letterboxd.com/<user>/reviews/page/N/` → save as `exports/pageN.html`,
+with every spoiler and every "…more" link expanded first). Then:
+
+```bash
+uv run backfill.py exports/page*.html   # parse pages -> data/backfill/page*.json
+uv run merge.py                         # combine + upsert into SQLite + re-export JSON
+```
+
+`backfill.py` skips entries already present in `data/letterboxd.json` and
+fails loudly on truncated or empty review bodies. Backfilled entries carry
+two extra fields the feed does not provide (`like_count`, `comment_count`)
+and lack two the page does not show (`pub_date`, `tmdb_movie_id`). Once
+merged into SQLite they are preserved by the daily sync like any other entry.

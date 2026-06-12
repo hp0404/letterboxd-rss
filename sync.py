@@ -47,7 +47,13 @@ class Base(DeclarativeBase):
 
 
 class Entry(Base):
-    """A diary entry: a logged watch, with or without a review."""
+    """A diary entry: a logged watch, with or without a review.
+
+    Entries come from two sources: the RSS feed (sync.py) and one-off HTML
+    backfills (backfill.py + merge.py). Backfilled entries have no pub_date
+    or tmdb_movie_id (absent from the HTML), but carry like_count and
+    comment_count (absent from the feed).
+    """
 
     __tablename__ = "entries"
 
@@ -61,11 +67,13 @@ class Entry(Base):
     member_like: Mapped[bool]
     rewatch: Mapped[bool]
     watched_date: Mapped[str | None]
-    pub_date: Mapped[str]
+    pub_date: Mapped[str | None]
     link: Mapped[str]
     poster_url: Mapped[str | None]
     review_html: Mapped[str | None]
     review_text: Mapped[str | None]
+    like_count: Mapped[int | None]
+    comment_count: Mapped[int | None]
     first_seen_at: Mapped[str]
     updated_at: Mapped[str]
 
@@ -249,14 +257,29 @@ def row_to_dict(row: Base, exclude: tuple[str, ...] = ()) -> dict[str, object]:
     }
 
 
+def entry_sort_key(row: Entry) -> tuple[datetime, int]:
+    """Newest-first ordering: pub_date, falling back to watched_date.
+
+    Backfilled entries have no pub_date; their watched_date (plus the
+    monotonically increasing viewing id in the guid as a same-day
+    tie-breaker) puts them after all feed entries.
+    """
+    raw = row.pub_date or row.watched_date
+    moment = datetime.fromisoformat(raw) if raw else datetime.min
+    if moment.tzinfo is None:
+        moment = moment.replace(tzinfo=timezone.utc)
+    return moment, int(row.guid.rsplit("-", 1)[1])
+
+
+def list_sort_key(row: FilmList) -> tuple[datetime, str]:
+    """Newest-first ordering for lists, which always have a pub_date."""
+    return datetime.fromisoformat(row.pub_date), row.guid
+
+
 def export_json(session: Session, username: str) -> None:
     """Write the full accumulated dataset to a single JSON file."""
-    sort_key = lambda row: (
-        datetime.fromisoformat(row.pub_date),
-        row.guid,
-    )  # noqa: E731
-    entries = sorted(session.scalars(select(Entry)), key=sort_key, reverse=True)
-    lists = sorted(session.scalars(select(FilmList)), key=sort_key, reverse=True)
+    entries = sorted(session.scalars(select(Entry)), key=entry_sort_key, reverse=True)
+    lists = sorted(session.scalars(select(FilmList)), key=list_sort_key, reverse=True)
     payload = {
         "user": username,
         "feed_url": FEED_URL,
