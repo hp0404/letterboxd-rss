@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1352818774",
+      "type": "review",
+      "title": "Head-On, 2004 - ★★★★★",
+      "film_title": "Head-On",
+      "film_year": 2004,
+      "tmdb_movie_id": 363,
+      "member_rating": 5.0,
+      "member_like": true,
+      "rewatch": false,
+      "watched_date": "2026-06-12",
+      "pub_date": "2026-06-13T11:05:09+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/head-on-2004/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/1/0/51710-head-on-0-600-0-900-crop.jpg?v=4abd0cadb3",
+      "review_html": "<p>Я очікував від цього фільму багато і він мене все одно позитивно вразив. Дуже гарний приклад того, які хороші фільми робили наприкінці 90х - на початку 2000х в Німеччині. </p><p>Нетипова історія про самознищення і віднайдення себе, про глибоке й нетипове кохання. Раджу</p><p>---</p><p>Die meisten Filme, die ich gucke, sind so typisch, dass man vergisst, worum es ging. Das gilt nicht für Fatih Akins Filme, zumindest nicht für diesen.</p><p>Gegen die Wand ist sein bester Film (Soul Kitchen ist trotzdem mein Lieblingsfilm). Der Film hat eine gute, untypische Geschichte über Liebe, Verlust, Selbstzerstörung und Selbstfindung. Er zeigt auch die deutsch-türkische Kultur sehr gut, soweit ich das beurteilen kann, und schließlich sind die Rollen von Sibel und Cahit sehr gut und überzeugend gespielt.<br />Visuell und musikalisch gesehen ist der Film auch beeindruckend. Ich habe viel erwartet und war nicht enttäuscht!</p>",
+      "review_text": "Я очікував від цього фільму багато і він мене все одно позитивно вразив. Дуже гарний приклад того, які хороші фільми робили наприкінці 90х - на початку 2000х в Німеччині. \n\nНетипова історія про самознищення і віднайдення себе, про глибоке й нетипове кохання. Раджу\n\n---\n\nDie meisten Filme, die ich gucke, sind so typisch, dass man vergisst, worum es ging. Das gilt nicht für Fatih Akins Filme, zumindest nicht für diesen.\n\nGegen die Wand ist sein bester Film (Soul Kitchen ist trotzdem mein Lieblingsfilm). Der Film hat eine gute, untypische Geschichte über Liebe, Verlust, Selbstzerstörung und Selbstfindung. Er zeigt auch die deutsch-türkische Kultur sehr gut, soweit ich das beurteilen kann, und schließlich sind die Rollen von Sibel und Cahit sehr gut und überzeugend gespielt.\nVisuell und musikalisch gesehen ist der Film auch beeindruckend. Ich habe viel erwartet und war nicht enttäuscht!",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-13T07:55:52+00:00",
+      "updated_at": "2026-06-13T07:55:52+00:00"
+    },
+    {
       "guid": "letterboxd-review-1351519221",
       "type": "review",
       "title": "Spirit: Stallion of the Cimarron, 2002 - ★★★★★",
@@ -8249,20 +8270,20 @@
       "guid": "letterboxd-list-61941393",
       "title": "Die besten deutschen Filme - Top 4",
       "link": "https://letterboxd.com/bugfreedisco/list/die-besten-deutschen-filme-top-4/",
-      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/good-bye-lenin/\">Good Bye, Lenin!</a> </li> <li> <a href=\"https://letterboxd.com/film/das-boot/\">Das Boot</a> </li> <li> <a href=\"https://letterboxd.com/film/run-lola-run/\">Run Lola Run</a> </li> <li> <a href=\"https://letterboxd.com/film/gloomy-sunday/\">Gloomy Sunday</a> </li> </ol>",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/head-on-2004/\">Head-On</a> </li> <li> <a href=\"https://letterboxd.com/film/good-bye-lenin/\">Good Bye, Lenin!</a> </li> <li> <a href=\"https://letterboxd.com/film/run-lola-run/\">Run Lola Run</a> </li> <li> <a href=\"https://letterboxd.com/film/gloomy-sunday/\">Gloomy Sunday</a> </li> <li> <a href=\"https://letterboxd.com/film/bang-boom-bang/\">Bang, Boom, Bang</a> </li> <li> <a href=\"https://letterboxd.com/film/gigantic-1999/\">Gigantic</a> </li> <li> <a href=\"https://letterboxd.com/film/soul-kitchen/\">Soul Kitchen</a> </li> <li> <a href=\"https://letterboxd.com/film/das-boot/\">Das Boot</a> </li> </ol>",
       "pub_date": "2025-04-12T08:16:58+12:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-06-12T16:26:44+00:00",
+      "updated_at": "2026-06-13T07:55:52+00:00",
       "films": [
         {
           "position": 1,
-          "title": "Good Bye, Lenin!",
-          "url": "https://letterboxd.com/film/good-bye-lenin/"
+          "title": "Head-On",
+          "url": "https://letterboxd.com/film/head-on-2004/"
         },
         {
           "position": 2,
-          "title": "Das Boot",
-          "url": "https://letterboxd.com/film/das-boot/"
+          "title": "Good Bye, Lenin!",
+          "url": "https://letterboxd.com/film/good-bye-lenin/"
         },
         {
           "position": 3,
@@ -8273,6 +8294,26 @@
           "position": 4,
           "title": "Gloomy Sunday",
           "url": "https://letterboxd.com/film/gloomy-sunday/"
+        },
+        {
+          "position": 5,
+          "title": "Bang, Boom, Bang",
+          "url": "https://letterboxd.com/film/bang-boom-bang/"
+        },
+        {
+          "position": 6,
+          "title": "Gigantic",
+          "url": "https://letterboxd.com/film/gigantic-1999/"
+        },
+        {
+          "position": 7,
+          "title": "Soul Kitchen",
+          "url": "https://letterboxd.com/film/soul-kitchen/"
+        },
+        {
+          "position": 8,
+          "title": "Das Boot",
+          "url": "https://letterboxd.com/film/das-boot/"
         }
       ]
     },
