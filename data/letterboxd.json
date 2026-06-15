@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1355018087",
+      "type": "review",
+      "title": "Learning to Lie, 2003 - ★",
+      "film_title": "Learning to Lie",
+      "film_year": 2003,
+      "tmdb_movie_id": 1558,
+      "member_rating": 1.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-06-14",
+      "pub_date": "2026-06-15T04:08:12+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/learning-to-lie/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/9/7/6/50976-learning-to-lie-0-600-0-900-crop.jpg?v=0e5a413f52",
+      "review_html": "<p>Ich kann Filme nicht ernst nehmen, in denen Erwachsene Schüler spielen (so eine Katastrophe). Das ist einfach peinlich. Die Storyline ist auch zu typisch</p>",
+      "review_text": "Ich kann Filme nicht ernst nehmen, in denen Erwachsene Schüler spielen (so eine Katastrophe). Das ist einfach peinlich. Die Storyline ist auch zu typisch",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-15T10:32:37+00:00",
+      "updated_at": "2026-06-15T10:32:37+00:00"
+    },
+    {
       "guid": "letterboxd-review-1353874975",
       "type": "review",
       "title": "Beautiful Boy, 2018 - ★★★½",
