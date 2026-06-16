@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1356375630",
+      "type": "review",
+      "title": "Car Washers, 2001 - ★★",
+      "film_title": "Car Washers",
+      "film_year": 2001,
+      "tmdb_movie_id": 294832,
+      "member_rating": 2.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-06-15",
+      "pub_date": "2026-06-16T03:28:11+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/car-washers/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/1/9/0/1/221901-car-washers-0-600-0-900-crop.jpg?v=f40544d252",
+      "review_html": "<p>Мені сподобались лише вулиці Києва</p>",
+      "review_text": "Мені сподобались лише вулиці Києва",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-16T09:34:57+00:00",
+      "updated_at": "2026-06-16T09:34:57+00:00"
+    },
+    {
       "guid": "letterboxd-review-1355018087",
       "type": "review",
       "title": "Learning to Lie, 2003 - ★",
