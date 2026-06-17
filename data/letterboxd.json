@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1357480174",
+      "type": "review",
+      "title": "Mirgorod and Its Inhabitants, 1983 - ★★★",
+      "film_title": "Mirgorod and Its Inhabitants",
+      "film_year": 1983,
+      "tmdb_movie_id": 376836,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-06-16",
+      "pub_date": "2026-06-17T01:17:50+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/mirgorod-and-its-inhabitants/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/2/1/8/9/312189-mirgorod-and-its-inhabitants-0-600-0-900-crop.jpg?v=46b4b17941",
+      "review_html": "<p>Крінж іще той. Напевно хто фанат Гоголя той оцінить більше. Мене на 2 серії не вистачило</p>",
+      "review_text": "Крінж іще той. Напевно хто фанат Гоголя той оцінить більше. Мене на 2 серії не вистачило",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-17T09:11:20+00:00",
+      "updated_at": "2026-06-17T09:11:20+00:00"
+    },
+    {
       "guid": "letterboxd-review-1356375630",
       "type": "review",
       "title": "Car Washers, 2001 - ★★",
