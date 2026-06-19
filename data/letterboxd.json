@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1359907050",
+      "type": "review",
+      "title": "Spring on Zarechnaya Street, 1956 - ★★★",
+      "film_title": "Spring on Zarechnaya Street",
+      "film_year": 1956,
+      "tmdb_movie_id": 54970,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-06-18",
+      "pub_date": "2026-06-19T04:52:22+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/spring-on-zarechnaya-street/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/1/3/4/11134-spring-on-zarechnaya-street-0-600-0-900-crop.jpg?v=14ec8c3305",
+      "review_html": "<p>Совєцька пропаганда: індустріальне місто, завод, сталевар, вчителька вечірньої школи. Типова мелодрама.</p><p>Раніше я кенселив усе створене в той час, але це також частина історії. Дід з бабою любили таке кіно. Як не любити те, що показує твою молодість?</p>",
+      "review_text": "Совєцька пропаганда: індустріальне місто, завод, сталевар, вчителька вечірньої школи. Типова мелодрама.\n\nРаніше я кенселив усе створене в той час, але це також частина історії. Дід з бабою любили таке кіно. Як не любити те, що показує твою молодість?",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-19T09:14:22+00:00",
+      "updated_at": "2026-06-19T09:14:22+00:00"
+    },
+    {
       "guid": "letterboxd-review-1359073323",
       "type": "review",
       "title": "In the Realm of the Senses, 1976 - ★★½",
