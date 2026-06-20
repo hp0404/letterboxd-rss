@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-watch-1361170126",
+      "type": "watch",
+      "title": "If I Had Legs I'd Kick You, 2025 - ★★",
+      "film_title": "If I Had Legs I'd Kick You",
+      "film_year": 2025,
+      "tmdb_movie_id": 1160360,
+      "member_rating": 2.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-06-19",
+      "pub_date": "2026-06-20T06:43:01+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/if-i-had-legs-id-kick-you/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/6/5/2/2/1046522-if-i-had-legs-id-kick-you-0-600-0-900-crop.jpg?v=831a0c76c9",
+      "review_html": null,
+      "review_text": null,
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-20T07:57:29+00:00",
+      "updated_at": "2026-06-20T07:57:29+00:00"
+    },
+    {
       "guid": "letterboxd-review-1359907050",
       "type": "review",
       "title": "Spring on Zarechnaya Street, 1956 - ★★★",
@@ -1002,13 +1023,13 @@
       "watched_date": "2026-05-13",
       "pub_date": "2026-05-14T02:20:11+12:00",
       "link": "https://letterboxd.com/bugfreedisco/film/bespredel/",
-      "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/2/0/7/2/62072-bespredel-0-600-0-900-crop.jpg?v=8dba9460a9",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/2/0/7/2/62072-bespredel-0-600-0-900-crop.jpg?v=b40be042ed",
       "review_html": "<p>Складно оцінити цей фільм -- я його раніше не бачив, мені він неприємний. Але він гарно показує стан системи (совка) перед крахом. </p><p>Йду далі по списку рекомендацій Богдана...</p>",
       "review_text": "Складно оцінити цей фільм -- я його раніше не бачив, мені він неприємний. Але він гарно показує стан системи (совка) перед крахом. \n\nЙду далі по списку рекомендацій Богдана...",
       "like_count": null,
       "comment_count": null,
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-06-12T16:26:44+00:00"
+      "updated_at": "2026-06-20T07:57:29+00:00"
     },
     {
       "guid": "letterboxd-review-1313531895",
