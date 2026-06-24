@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1366790858",
+      "type": "review",
+      "title": "Sinbad: Legend of the Seven Seas, 2003 - ★★★★",
+      "film_title": "Sinbad: Legend of the Seven Seas",
+      "film_year": 2003,
+      "tmdb_movie_id": 14411,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": true,
+      "watched_date": "2026-06-23",
+      "pub_date": "2026-06-24T10:47:33+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/sinbad-legend-of-the-seven-seas/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/1/1/5/43115-sinbad-legend-of-the-seven-seas-0-600-0-900-crop.jpg?v=88616f3e79",
+      "review_html": "<p>Цей мультфільм (з чудово написаними жіночими персонажами) напевно входить у мій дитячий топ початку нульових поруч з Atlantis: The Lost Empire, Treasure Planet, Spirit та іншими. Мені здається, після цього вже таких потужних мультфільмів не знімали -- як мінімум, не в традиційній 2D-анімації (велика помилка).</p><p>Але що іще краще за цей мультфільм -- це серіал The Adventures of Sinbad 1996–1998. Як і Relic Hunter 1999–2002 -- ще одна класика, -- цей серіал, наскільки я пам’ятаю, щоразу показує іншу локацію й іншу історію, тож їх можна дивитись у випадковій послідовності й на фоні. Шкода, що такі пригодницькі тижневі серіали більше не заходять глядачеві й їх не знімають -- тут теж Сінбад символізує кінець епохи.</p>",
+      "review_text": "Цей мультфільм (з чудово написаними жіночими персонажами) напевно входить у мій дитячий топ початку нульових поруч з Atlantis: The Lost Empire, Treasure Planet, Spirit та іншими. Мені здається, після цього вже таких потужних мультфільмів не знімали -- як мінімум, не в традиційній 2D-анімації (велика помилка).\n\nАле що іще краще за цей мультфільм -- це серіал The Adventures of Sinbad 1996–1998. Як і Relic Hunter 1999–2002 -- ще одна класика, -- цей серіал, наскільки я пам’ятаю, щоразу показує іншу локацію й іншу історію, тож їх можна дивитись у випадковій послідовності й на фоні. Шкода, що такі пригодницькі тижневі серіали більше не заходять глядачеві й їх не знімають -- тут теж Сінбад символізує кінець епохи.",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-24T07:52:50+00:00",
+      "updated_at": "2026-06-24T07:52:50+00:00"
+    },
+    {
       "guid": "letterboxd-watch-1365496150",
       "type": "watch",
       "title": "Carts of Darkness, 2008 - ★★★★",
