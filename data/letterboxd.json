@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1369077154",
+      "type": "review",
+      "title": "Obsession, 2025 - ★",
+      "film_title": "Obsession",
+      "film_year": 2025,
+      "tmdb_movie_id": 1339713,
+      "member_rating": 1.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-06-25",
+      "pub_date": "2026-06-26T08:05:59+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/obsession-2025/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/4/7/2/1234472-obsession-2025-2-0-600-0-900-crop.jpg?v=cff6fc00b6",
+      "review_html": "<p>Після Backrooms я вже був повірив, що Gen Z покоління ютуберів почне знімати хороше кіно.</p><p>Я впевнений, що я не зняв би краще, але взяти банальну ідею і довести її до абсурду -- це просто слоп. Господи прости гірше за нетфлікс.</p><p>Акторка-Nikki супер зіграла. Сподіваюсь вона почне грати в хороших фільмах. Bear теж якщо ідея була довести до абсурду low testosterone поведінку</p>",
+      "review_text": "Після Backrooms я вже був повірив, що Gen Z покоління ютуберів почне знімати хороше кіно.\n\nЯ впевнений, що я не зняв би краще, але взяти банальну ідею і довести її до абсурду -- це просто слоп. Господи прости гірше за нетфлікс.\n\nАкторка-Nikki супер зіграла. Сподіваюсь вона почне грати в хороших фільмах. Bear теж якщо ідея була довести до абсурду low testosterone поведінку",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-26T08:02:23+00:00",
+      "updated_at": "2026-06-26T08:02:23+00:00"
+    },
+    {
       "guid": "letterboxd-review-1368050545",
       "type": "review",
       "title": "Dead Man, 1995 - ★★★½",
