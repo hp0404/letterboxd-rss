@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1373978023",
+      "type": "review",
+      "title": "Taxi Driver, 1976 - ★★★★★",
+      "film_title": "Taxi Driver",
+      "film_year": 1976,
+      "tmdb_movie_id": 103,
+      "member_rating": 5.0,
+      "member_like": true,
+      "rewatch": true,
+      "watched_date": "2026-06-29",
+      "pub_date": "2026-06-29T20:19:01+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/taxi-driver/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d",
+      "review_html": "<p>June 29th. I gotta get in shape now. Too much sitting has ruined my body. Too much abuse has gone on for too long. From now on it'll be 50 push-ups each morning, 50 pull-ups. There will be no more pills, there will be no more bad food, no more destroyers of my body. From now on it'll be total organization. Every muscle must be tight.</p>",
+      "review_text": "June 29th. I gotta get in shape now. Too much sitting has ruined my body. Too much abuse has gone on for too long. From now on it'll be 50 push-ups each morning, 50 pull-ups. There will be no more pills, there will be no more bad food, no more destroyers of my body. From now on it'll be total organization. Every muscle must be tight.",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-06-29T09:06:17+00:00",
+      "updated_at": "2026-06-29T09:06:17+00:00"
+    },
+    {
       "guid": "letterboxd-review-1371203064",
       "type": "review",
       "title": "Louis Theroux: Inside the Manosphere, 2026 - ★★★",
