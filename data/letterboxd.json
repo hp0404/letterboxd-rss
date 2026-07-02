@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1377215774",
+      "type": "review",
+      "title": "Down by Law, 1986 - ★★",
+      "film_title": "Down by Law",
+      "film_year": 1986,
+      "tmdb_movie_id": 1554,
+      "member_rating": 2.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-07-01",
+      "pub_date": "2026-07-02T09:30:34+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/down-by-law/",
+      "poster_url": "https://a.ltrbxd.com/resized/sm/upload/tp/ou/lq/a2/4IyxoUQ7BB5kcSd7gASe2dTyWu7-0-600-0-900-crop.jpg?v=932e7fe7a9",
+      "review_html": "<p>Вийшли на половині, можливо звісно настрій був не той, але не зайшло</p>",
+      "review_text": "Вийшли на половині, можливо звісно настрій був не той, але не зайшло",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-07-02T07:43:29+00:00",
+      "updated_at": "2026-07-02T07:43:29+00:00"
+    },
+    {
       "guid": "letterboxd-review-1375748508",
       "type": "review",
       "title": "Sun and Concrete, 2023 - ★★",
