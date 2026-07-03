@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1378703672",
+      "type": "review",
+      "title": "Diving Into the Darkness, 2024 - ★",
+      "film_title": "Diving Into the Darkness",
+      "film_year": 2024,
+      "tmdb_movie_id": 1232964,
+      "member_rating": 1.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-07-02",
+      "pub_date": "2026-07-03T09:24:27+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/diving-into-the-darkness/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/1/6/0/1/4/1116014-diving-into-the-darkness-0-600-0-900-crop.jpg?v=823722af6e",
+      "review_html": "<p>Документалка жахлива. Рілси про cave diving і то цікавіші. А ця анімація, навіщо?</p><p>Хоча сама оповідачка прикольна</p>",
+      "review_text": "Документалка жахлива. Рілси про cave diving і то цікавіші. А ця анімація, навіщо?\n\nХоча сама оповідачка прикольна",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-07-03T07:34:25+00:00",
+      "updated_at": "2026-07-03T07:34:25+00:00"
+    },
+    {
       "guid": "letterboxd-review-1377215774",
       "type": "review",
       "title": "Down by Law, 1986 - ★★",
