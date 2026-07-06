@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1383259977",
+      "type": "review",
+      "title": "DTF St. Louis, 2026 - ★★",
+      "film_title": "DTF St. Louis",
+      "film_year": 2026,
+      "tmdb_movie_id": null,
+      "member_rating": 2.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-07-05",
+      "pub_date": "2026-07-06T09:02:21+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/dtf-st-louis/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/1/0/8/0/8/1510808-dtf-st-louis-0-600-0-900-crop.jpg?v=139044d7f9",
+      "review_html": "<p>Початок дає хибні сподівання, що серіал буде кращим, ніж він виявився. Шкода потраченого часу</p><p>David Harbour зіграв свого персонажа класно</p>",
+      "review_text": "Початок дає хибні сподівання, що серіал буде кращим, ніж він виявився. Шкода потраченого часу\n\nDavid Harbour зіграв свого персонажа класно",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-07-06T08:40:11+00:00",
+      "updated_at": "2026-07-06T08:40:11+00:00"
+    },
+    {
       "guid": "letterboxd-review-1381536505",
       "type": "review",
       "title": "The Love That Remains, 2025 - ★",
