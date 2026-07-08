@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1385908840",
+      "type": "review",
+      "title": "The Starling Girl, 2023 - ★★★★★",
+      "film_title": "The Starling Girl",
+      "film_year": 2023,
+      "tmdb_movie_id": 1001500,
+      "member_rating": 5.0,
+      "member_like": true,
+      "rewatch": false,
+      "watched_date": "2026-07-07",
+      "pub_date": "2026-07-08T08:19:45+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/the-starling-girl/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/0/2/1/9/1/902191-the-starling-girl-0-600-0-900-crop.jpg?v=c36ce7b509",
+      "review_html": "<p>Християнський хорор. </p><p>Дві (найбільші) речі, що обʼєднують фундаменталістські протестантські спільноти в США та Україні: не можна танцювати як хочеться і носити сережки.</p><p>Перша половина виглядає як фантазія сина пастора, друга -- як його страшний сон. </p><p>Фільм мені дуже сподобався -- щось новеньке на фоні слопу цього десятиліття</p>",
+      "review_text": "Християнський хорор. \n\nДві (найбільші) речі, що обʼєднують фундаменталістські протестантські спільноти в США та Україні: не можна танцювати як хочеться і носити сережки.\n\nПерша половина виглядає як фантазія сина пастора, друга -- як його страшний сон. \n\nФільм мені дуже сподобався -- щось новеньке на фоні слопу цього десятиліття",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-07-08T06:37:34+00:00",
+      "updated_at": "2026-07-08T06:37:34+00:00"
+    },
+    {
       "guid": "letterboxd-review-1383259977",
       "type": "review",
       "title": "DTF St. Louis, 2026 - ★★",
