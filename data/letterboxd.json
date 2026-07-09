@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1386872160",
+      "type": "review",
+      "title": "Killer Joe, 2011 - ★★★½",
+      "film_title": "Killer Joe",
+      "film_year": 2011,
+      "tmdb_movie_id": 73567,
+      "member_rating": 3.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-07-08",
+      "pub_date": "2026-07-09T02:07:22+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/killer-joe/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/9/7/6/7/59767-killer-joe-0-600-0-900-crop.jpg?v=fd8ddc7b64",
+      "review_html": "<p>It's a 3/5 movie OR HOWEVER MUCH. Але кінцівка завдяки Макконахі 5/5, це прекрасно</p>",
+      "review_text": "It's a 3/5 movie OR HOWEVER MUCH. Але кінцівка завдяки Макконахі 5/5, це прекрасно",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-07-09T07:51:27+00:00",
+      "updated_at": "2026-07-09T07:51:27+00:00"
+    },
+    {
       "guid": "letterboxd-review-1385908840",
       "type": "review",
       "title": "The Starling Girl, 2023 - ★★★★★",
