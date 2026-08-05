@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1433696602",
+      "type": "review",
+      "title": "The Black Phone, 2021 - ★★½",
+      "film_title": "The Black Phone",
+      "film_year": 2021,
+      "tmdb_movie_id": 756999,
+      "member_rating": 2.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-04",
+      "pub_date": "2026-08-05T10:03:33+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/the-black-phone/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/7/7/5/7/1/677571-the-black-phone-0-600-0-900-crop.jpg?v=45a499c08d",
+      "review_html": "<p>З цими дітьми-акторами це завжди hit or miss: наприклад, Ґвен просто жахлива, але Фін зіграв непогано. Фільм теж ніби непоганий -- сеттінг чудовий, -- але сюжет така банальщина: чувак в масці якось викрадає дітей і тримає їх в підвалі. </p><p>Такі історії можна зняти подібно до Prisoners: показати, як цих дітей шукають, кого підозрюють у злочинах тощо. Тобто подати все досить реалістично. Цей фільм йде іншим шляхом: він розповідає історію з погляду жертви, але водночас додає якісь магічні правила. Ґвен бачить сни -- то впізнає вона будинок чи ні? У кімнаті є телефон, через який раніше викрадені діти (?) контактують з Фіном. Вже не кажучи про весь шум, який Фін створює, але якийсь чомусь не привертає уваги викрадача. </p><p>Я не проти містичних елементів, але вони мають бути добре інтегровані у всесвіт фільму й нормально пояснені. Думаю, в цьому найбільший недолік цього фільму. І те, що ми не бачимо Ітана Хока без маски............</p>",
+      "review_text": "З цими дітьми-акторами це завжди hit or miss: наприклад, Ґвен просто жахлива, але Фін зіграв непогано. Фільм теж ніби непоганий -- сеттінг чудовий, -- але сюжет така банальщина: чувак в масці якось викрадає дітей і тримає їх в підвалі. \n\nТакі історії можна зняти подібно до Prisoners: показати, як цих дітей шукають, кого підозрюють у злочинах тощо. Тобто подати все досить реалістично. Цей фільм йде іншим шляхом: він розповідає історію з погляду жертви, але водночас додає якісь магічні правила. Ґвен бачить сни -- то впізнає вона будинок чи ні? У кімнаті є телефон, через який раніше викрадені діти (?) контактують з Фіном. Вже не кажучи про весь шум, який Фін створює, але якийсь чомусь не привертає уваги викрадача. \n\nЯ не проти містичних елементів, але вони мають бути добре інтегровані у всесвіт фільму й нормально пояснені. Думаю, в цьому найбільший недолік цього фільму. І те, що ми не бачимо Ітана Хока без маски............",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-05T06:39:56+00:00",
+      "updated_at": "2026-08-05T06:39:56+00:00"
+    },
+    {
       "guid": "letterboxd-review-1431917614",
       "type": "review",
       "title": "Frailty, 2001 - ★★★½",
@@ -8733,10 +8754,10 @@
       "guid": "letterboxd-list-80991901",
       "title": "Top 2025",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2025/",
-      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/hamnet/\">Hamnet</a> </li> <li> <a href=\"https://letterboxd.com/film/train-dreams/\">Train Dreams</a> </li> <li> <a href=\"https://letterboxd.com/film/sentimental-value-2025/\">Sentimental Value</a> </li> <li> <a href=\"https://letterboxd.com/film/christy-2025/\">Christy</a> </li> <li> <a href=\"https://letterboxd.com/film/one-battle-after-another/\">One Battle After Another</a> </li> <li> <a href=\"https://letterboxd.com/film/bugonia/\">Bugonia</a> </li> <li> <a href=\"https://letterboxd.com/film/eddington/\">Eddington</a> </li> <li> <a href=\"https://letterboxd.com/film/the-smashing-machine-2025/\">The Smashing Machine</a> </li> </ol>",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/hamnet/\">Hamnet</a> </li> <li> <a href=\"https://letterboxd.com/film/train-dreams/\">Train Dreams</a> </li> <li> <a href=\"https://letterboxd.com/film/sentimental-value-2025/\">Sentimental Value</a> </li> <li> <a href=\"https://letterboxd.com/film/christy-2025/\">CHRISTY</a> </li> <li> <a href=\"https://letterboxd.com/film/one-battle-after-another/\">One Battle After Another</a> </li> <li> <a href=\"https://letterboxd.com/film/bugonia/\">Bugonia</a> </li> <li> <a href=\"https://letterboxd.com/film/eddington/\">Eddington</a> </li> <li> <a href=\"https://letterboxd.com/film/the-smashing-machine-2025/\">The Smashing Machine</a> </li> </ol>",
       "pub_date": "2026-02-24T07:25:02+13:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-06-12T16:26:44+00:00",
+      "updated_at": "2026-08-05T06:39:56+00:00",
       "films": [
         {
           "position": 1,
@@ -8755,7 +8776,7 @@
         },
         {
           "position": 4,
-          "title": "Christy",
+          "title": "CHRISTY",
           "url": "https://letterboxd.com/film/christy-2025/"
         },
         {
