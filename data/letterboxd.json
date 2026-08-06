@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1435037435",
+      "type": "review",
+      "title": "Super 8, 2011 - ★",
+      "film_title": "Super 8",
+      "film_year": 2011,
+      "tmdb_movie_id": 37686,
+      "member_rating": 1.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-05",
+      "pub_date": "2026-08-06T05:33:37+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/super-8/",
+      "poster_url": "https://a.ltrbxd.com/resized/sm/upload/94/zp/vm/wr/b2FnFpBRuXa9buiYwctujn6zWrZ-0-600-0-900-crop.jpg?v=40c36ab160",
+      "review_html": "<p>J.J. Abrams 🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮</p>",
+      "review_text": "J.J. Abrams 🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-06T06:43:14+00:00",
+      "updated_at": "2026-08-06T06:43:14+00:00"
+    },
+    {
       "guid": "letterboxd-review-1433696602",
       "type": "review",
       "title": "The Black Phone, 2021 - ★★½",
