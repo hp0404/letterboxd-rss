@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1437036493",
+      "type": "review",
+      "title": "The Clovehitch Killer, 2018 - ★★½",
+      "film_title": "The Clovehitch Killer",
+      "film_year": 2018,
+      "tmdb_movie_id": 544431,
+      "member_rating": 2.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-06",
+      "pub_date": "2026-08-07T09:02:21+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/the-clovehitch-killer/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/3/3/1/9/473319-the-clovehitch-killer-0-600-0-900-crop.jpg?v=1c093e47a7",
+      "review_html": "<p>Сцена істерики на ліжку -- це просто мій внутрішній стан, коли я дивлюся на проявлені фотографії, але це не моє основне хобі, тому who cares (істерика).</p><p>Кінцівка слабувата</p>",
+      "review_text": "Сцена істерики на ліжку -- це просто мій внутрішній стан, коли я дивлюся на проявлені фотографії, але це не моє основне хобі, тому who cares (істерика).\n\nКінцівка слабувата",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-07T05:48:57+00:00",
+      "updated_at": "2026-08-07T05:48:57+00:00"
+    },
+    {
       "guid": "letterboxd-review-1435037435",
       "type": "review",
       "title": "Super 8, 2011 - ★",
