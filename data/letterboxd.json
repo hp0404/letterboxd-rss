@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1444115405",
+      "type": "review",
+      "title": "Fashions, 2019 - ★★★★",
+      "film_title": "Fashions",
+      "film_year": 2019,
+      "tmdb_movie_id": 660245,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-10",
+      "pub_date": "2026-08-11T08:20:54+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/fashions/1/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/8/5/3/4/4/585344-fashions-0-600-0-900-crop.jpg?v=09017c6d21",
+      "review_html": "<p>Це хтось сидів і думав, давати фінансування чи ні. Цікаво які були аргументи. Крейзі кіно</p><p><a href=\"https://youtu.be/BAHSqKJMUAo?si=W-qJP5mHaF9yJIuv\" rel=\"nofollow\">youtu.be/BAHSqKJMUAo?si=W-qJP5mHaF9yJIuv</a></p>",
+      "review_text": "Це хтось сидів і думав, давати фінансування чи ні. Цікаво які були аргументи. Крейзі кіно\n\nyoutu.be/BAHSqKJMUAo?si=W-qJP5mHaF9yJIuv",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-11T05:20:44+00:00",
+      "updated_at": "2026-08-11T05:20:44+00:00"
+    },
+    {
       "guid": "letterboxd-review-1440598660",
       "type": "review",
       "title": "All Her Fault, 2025 - ★★",
