@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1450337282",
+      "type": "review",
+      "title": "State of Grace, 1990 - ★★★½",
+      "film_title": "State of Grace",
+      "film_year": 1990,
+      "tmdb_movie_id": 1662,
+      "member_rating": 3.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-14",
+      "pub_date": "2026-08-15T08:04:37+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/state-of-grace/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/8/0/50880-state-of-grace-0-600-0-900-crop.jpg?v=37d70ea8f2",
+      "review_html": "<p>Сильний каст, хороша історія, трохи затянуто. </p><p>Навіть не найкращий (sic!) гангстерський фільм 1990 року -- завдяки Гудфеллас -- сьогодні він тримається дуже добре на тлі &quot;унікального&quot; (&quot;глибокого&quot;) кіно, яке ми бачимо в кінотеатрах. </p><p>Можна вже просто повернути нормальне кіно??? Нема сил на рент, ай все</p>",
+      "review_text": "Сильний каст, хороша історія, трохи затянуто. \n\nНавіть не найкращий (sic!) гангстерський фільм 1990 року -- завдяки Гудфеллас -- сьогодні він тримається дуже добре на тлі \"унікального\" (\"глибокого\") кіно, яке ми бачимо в кінотеатрах. \n\nМожна вже просто повернути нормальне кіно??? Нема сил на рент, ай все",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-15T04:44:51+00:00",
+      "updated_at": "2026-08-15T04:44:51+00:00"
+    },
+    {
       "guid": "letterboxd-review-1448684053",
       "type": "review",
       "title": "Tony Hawk: Until the Wheels Fall Off, 2022 - ★★★",
