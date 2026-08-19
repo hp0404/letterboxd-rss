@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1457519050",
+      "type": "review",
+      "title": "The Piano Teacher, 2001 - ★★★★",
+      "film_title": "The Piano Teacher",
+      "film_year": 2001,
+      "tmdb_movie_id": 1791,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-18",
+      "pub_date": "2026-08-19T10:06:08+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/the-piano-teacher/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-600-0-900-crop.jpg?v=5ee594e70c",
+      "review_html": "<p>… і ось чому ніхто не любить піаністів</p>",
+      "review_text": "… і ось чому ніхто не любить піаністів",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-19T04:49:44+00:00",
+      "updated_at": "2026-08-19T04:49:44+00:00"
+    },
+    {
       "guid": "letterboxd-review-1454136324",
       "type": "review",
       "title": "Coffee and Cigarettes, 2003 - ★★★",
