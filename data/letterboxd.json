@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1458740931",
+      "type": "review",
+      "title": "The Sisters Brothers, 2018 - ★★★",
+      "film_title": "The Sisters Brothers",
+      "film_year": 2018,
+      "tmdb_movie_id": 440161,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-19",
+      "pub_date": "2026-08-20T07:00:25+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/the-sisters-brothers/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/2/7/4/0/372740-the-sisters-brothers-0-600-0-900-crop.jpg?v=8328ce3d8c",
+      "review_html": "<p>Приємно здивований (знову) грою Різа Ахмеда і Джона Рейлі - потужники</p>",
+      "review_text": "Приємно здивований (знову) грою Різа Ахмеда і Джона Рейлі - потужники",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-20T04:50:55+00:00",
+      "updated_at": "2026-08-20T04:50:55+00:00"
+    },
+    {
       "guid": "letterboxd-review-1457519050",
       "type": "review",
       "title": "The Piano Teacher, 2001 - ★★★★",
