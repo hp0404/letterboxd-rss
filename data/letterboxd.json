@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1461681399",
+      "type": "review",
+      "title": "Hustler White, 1996 - ★★★",
+      "film_title": "Hustler White",
+      "film_year": 1996,
+      "tmdb_movie_id": 44497,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-21",
+      "pub_date": "2026-08-22T07:56:18+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/hustler-white/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/0/6/8/6/20686-hustler-white-0-600-0-900-crop.jpg?v=e4476f3d92",
+      "review_html": "<p>I&#039;m feeling like a gay street hustler in Los Angeles after hitting a PR at the gym earlier today</p><p>(&quot;I assure you I am here strictly for anthropological reasons.&quot;)</p>",
+      "review_text": "I'm feeling like a gay street hustler in Los Angeles after hitting a PR at the gym earlier today\n\n(\"I assure you I am here strictly for anthropological reasons.\")",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-22T04:47:09+00:00",
+      "updated_at": "2026-08-22T04:47:09+00:00"
+    },
+    {
       "guid": "letterboxd-review-1460367807",
       "type": "review",
       "title": "The Killing of a Sacred Deer, 2017 - ★★★",
