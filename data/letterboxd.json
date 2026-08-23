@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1463448992",
+      "type": "review",
+      "title": "A Most Wanted Man, 2014 - ★★★★",
+      "film_title": "A Most Wanted Man",
+      "film_year": 2014,
+      "tmdb_movie_id": 157849,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-22",
+      "pub_date": "2026-08-23T09:42:25+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/a-most-wanted-man/",
+      "poster_url": "https://a.ltrbxd.com/resized/sm/upload/bb/0x/ph/6m/k0qWBpfSFLnMDaS43AkdkR9F2vA-0-600-0-900-crop.jpg?v=5e8a9dff07",
+      "review_html": "<p>По-перше, неймовірний каст: Гофман, Дефо, Макадамс. По-друге, знято в Гамбурзі -- справжні локації. По-третє, досить цікаво і напружено, а найголовніше -- показує суть піндосів. Мені дуже сподобалось.</p><p>- So Hamburg is a punishment?<br />- Depends on whether you like Hamburg.</p>",
+      "review_text": "По-перше, неймовірний каст: Гофман, Дефо, Макадамс. По-друге, знято в Гамбурзі -- справжні локації. По-третє, досить цікаво і напружено, а найголовніше -- показує суть піндосів. Мені дуже сподобалось.\n\n- So Hamburg is a punishment?\n- Depends on whether you like Hamburg.",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-23T04:50:32+00:00",
+      "updated_at": "2026-08-23T04:50:32+00:00"
+    },
+    {
       "guid": "letterboxd-review-1461681399",
       "type": "review",
       "title": "Hustler White, 1996 - ★★★",
