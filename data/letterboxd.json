@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1473568595",
+      "type": "review",
+      "title": "Great Expectations, 1998 - ★★★★★",
+      "film_title": "Great Expectations",
+      "film_year": 1998,
+      "tmdb_movie_id": 9410,
+      "member_rating": 5.0,
+      "member_like": true,
+      "rewatch": true,
+      "watched_date": "2026-08-29",
+      "pub_date": "2026-08-30T05:42:21+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/great-expectations-1998/1/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/1/8/6/47186-great-expectations-1998-0-600-0-900-crop.jpg?v=b440688c49",
+      "review_html": "<p>Гвінет Пелтроу молода в зеленому платті просто пік. Молодий Ітан Хок теж</p>",
+      "review_text": "Гвінет Пелтроу молода в зеленому платті просто пік. Молодий Ітан Хок теж",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-08-30T09:55:31+00:00",
+      "updated_at": "2026-08-30T09:55:31+00:00"
+    },
+    {
       "guid": "letterboxd-review-1471968853",
       "type": "review",
       "title": "Sunny Dancer, 2026 - ★",
