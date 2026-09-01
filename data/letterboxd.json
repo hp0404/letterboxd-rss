@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1476818209",
+      "type": "review",
+      "title": "When We Leave, 2010 - ★★★",
+      "film_title": "When We Leave",
+      "film_year": 2010,
+      "tmdb_movie_id": 44246,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-08-31",
+      "pub_date": "2026-09-01T02:29:35+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/when-we-leave/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/0/9/2/6/20926-when-we-leave-0-600-0-900-crop.jpg?v=bfd73be160",
+      "review_html": "<p>Der zweite Film, den ich mir zuletzt zum Thema türkisch-deutsche Erfahrungen bzw. zum Spannungsverhältnis zwischen dem Leben in Deutschland und der türkischen Familie angeschaut habe. Während Head-On mehr oder weniger romantisch und chaotisch war, ist dieser Film deutlich realistischer und dramatischer.</p><p>Sibel Kekillis Figur möchte einfach nur aus diesem traditionalistischen System ausbrechen. Sie will frei leben und selbst entscheiden, wie sie ihr Leben führt.</p>",
+      "review_text": "Der zweite Film, den ich mir zuletzt zum Thema türkisch-deutsche Erfahrungen bzw. zum Spannungsverhältnis zwischen dem Leben in Deutschland und der türkischen Familie angeschaut habe. Während Head-On mehr oder weniger romantisch und chaotisch war, ist dieser Film deutlich realistischer und dramatischer.\n\nSibel Kekillis Figur möchte einfach nur aus diesem traditionalistischen System ausbrechen. Sie will frei leben und selbst entscheiden, wie sie ihr Leben führt.",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-01T09:22:58+00:00",
+      "updated_at": "2026-09-01T09:22:58+00:00"
+    },
+    {
       "guid": "letterboxd-review-1473568595",
       "type": "review",
       "title": "Great Expectations, 1998 - ★★★★★",
