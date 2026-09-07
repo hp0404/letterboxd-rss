@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1485335155",
+      "type": "review",
+      "title": "Sex and the City, 2008 - ½",
+      "film_title": "Sex and the City",
+      "film_year": 2008,
+      "tmdb_movie_id": 4564,
+      "member_rating": 0.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-09-06",
+      "pub_date": "2026-09-07T08:25:05+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/sex-and-the-city/",
+      "poster_url": "https://a.ltrbxd.com/resized/sm/upload/mj/ol/db/70/5fuWykynmiJ07fKA84BVxxuiGHx-0-600-0-900-crop.jpg?v=0ae5d25fb9",
+      "review_html": "<p>So wrong on so many levels. Terrible.</p>",
+      "review_text": "So wrong on so many levels. Terrible.",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-07T09:18:01+00:00",
+      "updated_at": "2026-09-07T09:18:01+00:00"
+    },
+    {
       "guid": "letterboxd-review-1482419318",
       "type": "review",
       "title": "Operation Odessa, 2018 - ★★★",
