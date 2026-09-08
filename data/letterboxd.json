@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1486643011",
+      "type": "review",
+      "title": "Death's Game, 2023 - ★★★",
+      "film_title": "Death's Game",
+      "film_year": 2023,
+      "tmdb_movie_id": null,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-09-07",
+      "pub_date": "2026-09-08T02:34:34+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/deaths-game/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/1/6/0/6/5/1116065-death-s-game-0-600-0-900-crop.jpg?v=462451c46c",
+      "review_html": "<p>Сос мислом</p>",
+      "review_text": "Сос мислом",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-08T08:50:50+00:00",
+      "updated_at": "2026-09-08T08:50:50+00:00"
+    },
+    {
       "guid": "letterboxd-review-1485335155",
       "type": "review",
       "title": "Sex and the City, 2008 - ½",
@@ -9489,10 +9510,10 @@
       "guid": "letterboxd-list-80991901",
       "title": "Top 2025",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2025/",
-      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/hamnet/\">Hamnet</a> </li> <li> <a href=\"https://letterboxd.com/film/train-dreams/\">Train Dreams</a> </li> <li> <a href=\"https://letterboxd.com/film/sentimental-value-2025/\">Sentimental Value</a> </li> <li> <a href=\"https://letterboxd.com/film/christy-2025/\">CHRISTY</a> </li> <li> <a href=\"https://letterboxd.com/film/one-battle-after-another/\">One Battle After Another</a> </li> <li> <a href=\"https://letterboxd.com/film/bugonia/\">Bugonia</a> </li> <li> <a href=\"https://letterboxd.com/film/eddington/\">Eddington</a> </li> <li> <a href=\"https://letterboxd.com/film/the-smashing-machine-2025/\">The Smashing Machine</a> </li> </ol>",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/hamnet/\">Hamnet</a> </li> <li> <a href=\"https://letterboxd.com/film/train-dreams/\">Train Dreams</a> </li> <li> <a href=\"https://letterboxd.com/film/sentimental-value-2025/\">Sentimental Value</a> </li> <li> <a href=\"https://letterboxd.com/film/christy-2025/\">Christy</a> </li> <li> <a href=\"https://letterboxd.com/film/one-battle-after-another/\">One Battle After Another</a> </li> <li> <a href=\"https://letterboxd.com/film/bugonia/\">Bugonia</a> </li> <li> <a href=\"https://letterboxd.com/film/eddington/\">Eddington</a> </li> <li> <a href=\"https://letterboxd.com/film/the-smashing-machine-2025/\">The Smashing Machine</a> </li> </ol>",
       "pub_date": "2026-02-24T07:25:02+13:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-08-05T06:39:56+00:00",
+      "updated_at": "2026-09-08T08:50:50+00:00",
       "films": [
         {
           "position": 1,
@@ -9511,7 +9532,7 @@
         },
         {
           "position": 4,
-          "title": "CHRISTY",
+          "title": "Christy",
           "url": "https://letterboxd.com/film/christy-2025/"
         },
         {
