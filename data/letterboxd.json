@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1488426963",
+      "type": "review",
+      "title": "Sex and the City, 2008 - ½",
+      "film_title": "Sex and the City",
+      "film_year": 2008,
+      "tmdb_movie_id": 4564,
+      "member_rating": 0.5,
+      "member_like": false,
+      "rewatch": true,
+      "watched_date": "2026-09-08",
+      "pub_date": "2026-09-09T07:38:39+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/sex-and-the-city/1/",
+      "poster_url": "https://a.ltrbxd.com/resized/sm/upload/mj/ol/db/70/5fuWykynmiJ07fKA84BVxxuiGHx-0-600-0-900-crop.jpg?v=0ae5d25fb9",
+      "review_html": "<p>Мене заставили додивитись останні 40 хвилин. Це ще більше сміття ніж я думав</p>",
+      "review_text": "Мене заставили додивитись останні 40 хвилин. Це ще більше сміття ніж я думав",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-09T08:56:50+00:00",
+      "updated_at": "2026-09-09T08:56:50+00:00"
+    },
+    {
       "guid": "letterboxd-review-1486643011",
       "type": "review",
       "title": "Death's Game, 2023 - ★★★",
@@ -173,9 +194,9 @@
     {
       "guid": "letterboxd-review-1479672449",
       "type": "review",
-      "title": "Getting to Know the Big Wide World, 1978 - ★★★",
+      "title": "Getting to Know the Big Wide World, 1980 - ★★★",
       "film_title": "Getting to Know the Big Wide World",
-      "film_year": 1978,
+      "film_year": 1980,
       "tmdb_movie_id": 263837,
       "member_rating": 3.0,
       "member_like": false,
@@ -189,7 +210,7 @@
       "like_count": null,
       "comment_count": null,
       "first_seen_at": "2026-09-03T08:54:49+00:00",
-      "updated_at": "2026-09-03T08:54:49+00:00"
+      "updated_at": "2026-09-09T08:56:50+00:00"
     },
     {
       "guid": "letterboxd-review-1476818209",
@@ -960,13 +981,13 @@
       "watched_date": "2026-07-24",
       "pub_date": "2026-07-25T03:42:12+12:00",
       "link": "https://letterboxd.com/bugfreedisco/film/gas-station-queen/",
-      "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/6/7/5/38675-gas-station-queen-0-600-0-900-crop.jpg?v=b958d52968",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/6/7/5/38675-gas-station-queen-0-600-0-900-crop.jpg?v=37505845cd",
       "review_html": "<p>Перші хвилини з Києвом засмучують: так гарно -- і так погано зараз. Пирятин мало змінився.</p><p>Було б краще, якби фільм був українською, бажано ще й із діалектом. А так -- кілька вишиванок, неназване місто на трасі, але загалом нічого українського в ньому я не помітив. Кілька разів орнув, але гумор прямо дуже совєтський із 60-х.</p><p>Персонажка теж стереотипна й бісяча. Насправді я з такою працював на держслужбі, хоча вона була дуже молода. Тобто всі ці установки передаються й досі</p>",
       "review_text": "Перші хвилини з Києвом засмучують: так гарно -- і так погано зараз. Пирятин мало змінився.\n\nБуло б краще, якби фільм був українською, бажано ще й із діалектом. А так -- кілька вишиванок, неназване місто на трасі, але загалом нічого українського в ньому я не помітив. Кілька разів орнув, але гумор прямо дуже совєтський із 60-х.\n\nПерсонажка теж стереотипна й бісяча. Насправді я з такою працював на держслужбі, хоча вона була дуже молода. Тобто всі ці установки передаються й досі",
       "like_count": null,
       "comment_count": null,
       "first_seen_at": "2026-07-25T06:27:43+00:00",
-      "updated_at": "2026-07-25T06:27:43+00:00"
+      "updated_at": "2026-09-09T08:56:50+00:00"
     },
     {
       "guid": "letterboxd-watch-1411777997",
