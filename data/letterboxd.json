@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1490813147",
+      "type": "review",
+      "title": "Sex and the City 2, 2010 - ½",
+      "film_title": "Sex and the City 2",
+      "film_year": 2010,
+      "tmdb_movie_id": 37786,
+      "member_rating": 0.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-09-10",
+      "pub_date": "2026-09-11T08:18:16+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/sex-and-the-city-2/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/6/7/2/2/26722-sex-and-the-city-2-0-600-0-900-crop.jpg?v=c01e4c827f",
+      "review_html": "<p>I prefer really not to speak. If I speak, I am in big trouble</p><p>(🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮)</p>",
+      "review_text": "I prefer really not to speak. If I speak, I am in big trouble\n\n(🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮)",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-11T08:53:47+00:00",
+      "updated_at": "2026-09-11T08:53:47+00:00"
+    },
+    {
       "guid": "letterboxd-review-1488426963",
       "type": "review",
       "title": "Sex and the City, 2008 - ½",
