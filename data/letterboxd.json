@@ -31,7 +31,7 @@
       "film_year": 2012,
       "tmdb_movie_id": 121986,
       "member_rating": 4.0,
-      "member_like": false,
+      "member_like": true,
       "rewatch": false,
       "watched_date": "2026-09-13",
       "pub_date": "2026-09-13T20:52:44+12:00",
@@ -42,7 +42,7 @@
       "like_count": null,
       "comment_count": null,
       "first_seen_at": "2026-09-13T09:30:12+00:00",
-      "updated_at": "2026-09-13T09:30:12+00:00"
+      "updated_at": "2026-09-14T09:49:08+00:00"
     },
     {
       "guid": "letterboxd-review-1493130846",
