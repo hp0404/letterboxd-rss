@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1500921687",
+      "type": "review",
+      "title": "Charlie Wilson's War, 2007 - ★★★★",
+      "film_title": "Charlie Wilson's War",
+      "film_year": 2007,
+      "tmdb_movie_id": 6538,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-09-18",
+      "pub_date": "2026-09-19T08:54:28+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/charlie-wilsons-war/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/2/6/2/48262-charlie-wilson-s-war-0-600-0-900-crop.jpg?v=1eeb24a8dd",
+      "review_html": "<p>Дещо здивований оцінками та відгуками. Це ж піндоси in the nutshell!</p>",
+      "review_text": "Дещо здивований оцінками та відгуками. Це ж піндоси in the nutshell!",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-19T08:46:37+00:00",
+      "updated_at": "2026-09-19T08:46:37+00:00"
+    },
+    {
       "guid": "letterboxd-review-1499789551",
       "type": "review",
       "title": "Shrek, 2001 - ★★★",
