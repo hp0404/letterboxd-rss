@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1502431749",
+      "type": "review",
+      "title": "Who's Afraid of Virginia Woolf?, 1966 - ★★★★½",
+      "film_title": "Who's Afraid of Virginia Woolf?",
+      "film_year": 1966,
+      "tmdb_movie_id": 396,
+      "member_rating": 4.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-09-19",
+      "pub_date": "2026-09-20T09:06:55+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/whos-afraid-of-virginia-woolf/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/6/9/4/51694-who-s-afraid-of-virginia-woolf--0-600-0-900-crop.jpg?v=e194eba2b2",
+      "review_html": "<p>Я ще добре памʼятаю the invite - дуже схоже, тільки краще. Перша година заходить супер, далі стає важче фоловити, бо дуже затягнуто.</p><p>Діалоги, гра всіх акторів - супер. Про життя в ілюзії теж понятно, але я уявляю шок глядачів в 1966. </p><blockquote><p><i>I hope that was an empty bottle, George! You can&#039;t afford to waste good liquor, not on YOUR salary!</i></p></blockquote>",
+      "review_text": "Я ще добре памʼятаю the invite - дуже схоже, тільки краще. Перша година заходить супер, далі стає важче фоловити, бо дуже затягнуто.\n\nДіалоги, гра всіх акторів - супер. Про життя в ілюзії теж понятно, але я уявляю шок глядачів в 1966. I hope that was an empty bottle, George! You can't afford to waste good liquor, not on YOUR salary!",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-20T09:15:34+00:00",
+      "updated_at": "2026-09-20T09:15:34+00:00"
+    },
+    {
       "guid": "letterboxd-review-1500921687",
       "type": "review",
       "title": "Charlie Wilson's War, 2007 - ★★★★",
