@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1507898962",
+      "type": "review",
+      "title": "Drive, 2011 - ★★★★",
+      "film_title": "Drive",
+      "film_year": 2011,
+      "tmdb_movie_id": 64690,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": true,
+      "watched_date": "2026-09-23",
+      "pub_date": "2026-09-24T08:41:58+12:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/drive-2011/1/",
+      "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28",
+      "review_html": "<p>При всій нелюбові до авто, захотілося поїздити нічним Лос-Анджелесом.</p><p>Мовчазний Раян Гослінг - абсолютний аура-фармер. «Чоловікам краще рот не відкривати» (с) дружина</p><blockquote><p><i>I&#039;m giving you a night call to tell you how I feel (we&#039;ll go all, all, all night long)<br />I wanna drive you through the night, down the hills (we&#039;ll go all, all, all night long)<br />I&#039;m gonna tell you something you don&#039;t want to hear (we&#039;ll go all, all, all night long)<br />I&#039;m gonna show you where it&#039;s dark, but have no fear (we&#039;ll go all, all, all night long)</i></p></blockquote><p>Rip Kavinsky</p>",
+      "review_text": "При всій нелюбові до авто, захотілося поїздити нічним Лос-Анджелесом.\n\nМовчазний Раян Гослінг - абсолютний аура-фармер. «Чоловікам краще рот не відкривати» (с) дружинаI'm giving you a night call to tell you how I feel (we'll go all, all, all night long)\nI wanna drive you through the night, down the hills (we'll go all, all, all night long)\nI'm gonna tell you something you don't want to hear (we'll go all, all, all night long)\nI'm gonna show you where it's dark, but have no fear (we'll go all, all, all night long)Rip Kavinsky",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-09-24T09:16:53+00:00",
+      "updated_at": "2026-09-24T09:16:53+00:00"
+    },
+    {
       "guid": "letterboxd-review-1506534026",
       "type": "review",
       "title": "Charlie & Louise - Das doppelte Lottchen, 1994 - ★★★",
