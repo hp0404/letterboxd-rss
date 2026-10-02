@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1518875414",
+      "type": "review",
+      "title": "It Takes Two, 1995 - ★★★",
+      "film_title": "It Takes Two",
+      "film_year": 1995,
+      "tmdb_movie_id": 33689,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": true,
+      "watched_date": "2026-10-01",
+      "pub_date": "2026-10-02T06:04:43+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/it-takes-two/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/6/0/9/29609-it-takes-two-0-600-0-900-crop.jpg?v=5c374e7772",
+      "review_html": "<p>В дитинстві було дуже смішно, зараз просто мила історія</p>",
+      "review_text": "В дитинстві було дуже смішно, зараз просто мила історія",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-10-02T10:28:32+00:00",
+      "updated_at": "2026-10-02T10:28:32+00:00"
+    },
+    {
       "guid": "letterboxd-watch-1517241823",
       "type": "watch",
       "title": "Ginger Fairy, 1987 - ★★★★",
