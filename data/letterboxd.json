@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1531894030",
+      "type": "review",
+      "title": "71 Fragments of a Chronology of Chance, 1994 - ★★★",
+      "film_title": "71 Fragments of a Chronology of Chance",
+      "film_year": 1994,
+      "tmdb_movie_id": 32764,
+      "member_rating": 3.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-10-10",
+      "pub_date": "2026-10-11T09:18:14+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/71-fragments-of-a-chronology-of-chance/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/2/1/2/30212-71-fragments-of-a-chronology-of-chance-0-600-0-900-crop.jpg?v=bff012ba01",
+      "review_html": "<p>distanziert, fast schon dokumentarisch</p>",
+      "review_text": "distanziert, fast schon dokumentarisch",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-10-11T10:47:28+00:00",
+      "updated_at": "2026-10-11T10:47:28+00:00"
+    },
+    {
       "guid": "letterboxd-review-1523906264",
       "type": "review",
       "title": "Arlington Road, 1999 - ★★★½",
