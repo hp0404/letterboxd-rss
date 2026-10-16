@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1539501531",
+      "type": "review",
+      "title": "All of Us Strangers, 2023 - ★★★★★",
+      "film_title": "All of Us Strangers",
+      "film_year": 2023,
+      "tmdb_movie_id": 994108,
+      "member_rating": 5.0,
+      "member_like": true,
+      "rewatch": false,
+      "watched_date": "2026-10-15",
+      "pub_date": "2026-10-16T09:19:10+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/all-of-us-strangers/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/9/5/2/9/0/895290-all-of-us-strangers-0-600-0-900-crop.jpg?v=6b8a3d00c7",
+      "review_html": "<p>Любов до людей залишається з нами після їхньої смерті</p>",
+      "review_text": "Любов до людей залишається з нами після їхньої смерті",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-10-16T08:59:33+00:00",
+      "updated_at": "2026-10-16T08:59:33+00:00"
+    },
+    {
       "guid": "letterboxd-review-1536897723",
       "type": "review",
       "title": "East of Eden, 2026 - ★★★★",
@@ -288,13 +309,13 @@
       "watched_date": "2026-09-22",
       "pub_date": "2026-09-23T07:21:04+12:00",
       "link": "https://letterboxd.com/bugfreedisco/film/charlie-louise-das-doppelte-lottchen/",
-      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/8/2/1/45821-charlie-louise-das-doppelte-lottchen-0-600-0-900-crop.jpg?v=b96fc7cba2",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/8/2/1/45821-charlie-louise-das-doppelte-lottchen-0-600-0-900-crop.jpg?v=8428f44b7c",
       "review_html": "<p>Die Handlung war vorhersehbar, aber der Film hat mir trotzdem gefallen. Er hat mich ein bisschen an die Olsen-Zwillinge erinnert.</p>",
       "review_text": "Die Handlung war vorhersehbar, aber der Film hat mir trotzdem gefallen. Er hat mich ein bisschen an die Olsen-Zwillinge erinnert.",
       "like_count": null,
       "comment_count": null,
       "first_seen_at": "2026-09-23T09:17:00+00:00",
-      "updated_at": "2026-09-23T09:17:00+00:00"
+      "updated_at": "2026-10-16T08:59:33+00:00"
     },
     {
       "guid": "letterboxd-review-1502431749",
@@ -10757,10 +10778,10 @@
       "guid": "letterboxd-list-61941129",
       "title": "Українські фільми від Богдана",
       "link": "https://letterboxd.com/bugfreedisco/list/filmlist:61941129/",
-      "description_html": "<ul> <li> <a href=\"https://letterboxd.com/film/such-a-late-such-a-warm-autumn/\">Such a Late, Such a Warm Autumn</a> </li> <li> <a href=\"https://letterboxd.com/film/war-time-romance/\">War-Time Romance</a> </li> <li> <a href=\"https://letterboxd.com/film/oxygen-starvation/\">Oxygen Starvation</a> </li> <li> <a href=\"https://letterboxd.com/film/ostriv-lyubovi/\">Ostriv lyubovi</a> </li> <li> <a href=\"https://letterboxd.com/film/infinity-according-to-florian/\">Infinity According to Florian</a> </li> <li> <a href=\"https://letterboxd.com/film/collapse-1990/\">Collapse</a> </li> <li> <a href=\"https://letterboxd.com/film/ukrainian-sheriffs/\">Ukrainian Sheriffs</a> </li> <li> <a href=\"https://letterboxd.com/film/the-legend-of-princess-olga/\">The Legend of Princess Olga</a> </li> <li> <a href=\"https://letterboxd.com/film/the-tribe-2014/\">The Tribe</a> </li> </ul>",
+      "description_html": "<ul> <li> <a href=\"https://letterboxd.com/film/such-a-late-such-a-warm-autumn/\">Such a Late, Such a Warm Autumn</a> </li> <li> <a href=\"https://letterboxd.com/film/war-time-romance/\">War-Time Romance</a> </li> <li> <a href=\"https://letterboxd.com/film/oxygen-starvation/\">Oxygen Starvation</a> </li> <li> <a href=\"https://letterboxd.com/film/love-island-1995/\">Love Island</a> </li> <li> <a href=\"https://letterboxd.com/film/infinity-according-to-florian/\">Infinity According to Florian</a> </li> <li> <a href=\"https://letterboxd.com/film/collapse-1990/\">Collapse</a> </li> <li> <a href=\"https://letterboxd.com/film/ukrainian-sheriffs/\">Ukrainian Sheriffs</a> </li> <li> <a href=\"https://letterboxd.com/film/the-legend-of-princess-olga/\">The Legend of Princess Olga</a> </li> <li> <a href=\"https://letterboxd.com/film/the-tribe-2014/\">The Tribe</a> </li> </ul>",
       "pub_date": "2025-04-12T08:10:08+12:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-06-12T16:26:44+00:00",
+      "updated_at": "2026-10-16T08:59:33+00:00",
       "films": [
         {
           "position": 1,
@@ -10779,8 +10800,8 @@
         },
         {
           "position": 4,
-          "title": "Ostriv lyubovi",
-          "url": "https://letterboxd.com/film/ostriv-lyubovi/"
+          "title": "Love Island",
+          "url": "https://letterboxd.com/film/love-island-1995/"
         },
         {
           "position": 5,
