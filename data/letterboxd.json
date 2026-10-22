@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1548540689",
+      "type": "review",
+      "title": "Bombshell, 2019 - ★★½",
+      "film_title": "Bombshell",
+      "film_year": 2019,
+      "tmdb_movie_id": 525661,
+      "member_rating": 2.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-10-21",
+      "pub_date": "2026-10-22T10:07:31+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/bombshell-2019/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/5/1/2/1/455121-bombshell-0-600-0-900-crop.jpg?v=bc93f2df01",
+      "review_html": "<p>&quot;tell me those lips haven&#039;t sucked cock ha-ha-ha&quot;</p>",
+      "review_text": "\"tell me those lips haven't sucked cock ha-ha-ha\"",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-10-22T09:22:47+00:00",
+      "updated_at": "2026-10-22T09:22:47+00:00"
+    },
+    {
       "guid": "letterboxd-review-1542380536",
       "type": "review",
       "title": "Inside Cologne’s Kölsch Beer Culture | Anthony Bourdain Parts Unknown, 2018 - ★★★½",
