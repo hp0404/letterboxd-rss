@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1556076186",
+      "type": "review",
+      "title": "Fargo, 1996 - ★★★★½",
+      "film_title": "Fargo",
+      "film_year": 1996,
+      "tmdb_movie_id": 275,
+      "member_rating": 4.5,
+      "member_like": false,
+      "rewatch": true,
+      "watched_date": "2026-10-26",
+      "pub_date": "2026-10-27T11:40:39+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/fargo/1/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/1/51781-fargo-0-600-0-900-crop.jpg?v=44835e3b35",
+      "review_html": "<p>Передивився через 11 років після першого разу -- тоді я поставив 5 зірок, зараз скинув півзірки, бо завищив очікування (але Стів Бушемі та Френсіс Мак-Дорманд тащать). Попри це дуже хороша чорна комедія, мабуть саме з цим фільмом я найбільше асоціюю Джоеля Коена</p>",
+      "review_text": "Передивився через 11 років після першого разу -- тоді я поставив 5 зірок, зараз скинув півзірки, бо завищив очікування (але Стів Бушемі та Френсіс Мак-Дорманд тащать). Попри це дуже хороша чорна комедія, мабуть саме з цим фільмом я найбільше асоціюю Джоеля Коена",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-10-27T09:46:45+00:00",
+      "updated_at": "2026-10-27T09:46:45+00:00"
+    },
+    {
       "guid": "letterboxd-review-1554602944",
       "type": "review",
       "title": "Burn After Reading, 2008 - ★★★★",
