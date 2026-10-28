@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1558763565",
+      "type": "review",
+      "title": "Go, 1999 - ★★★½",
+      "film_title": "Go",
+      "film_year": 1999,
+      "tmdb_movie_id": 9430,
+      "member_rating": 3.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-10-27",
+      "pub_date": "2026-10-28T11:19:33+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/go/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/1/6/7/47167-go-0-600-0-900-crop.jpg?v=62d5db8e65",
+      "review_html": "<p>По стилю зйомки нагадало Spaced 1999-2001 -- не знаю чому, може просто обидва добре передають late-90s youth culture, а може просто ритмічний монтаж під музику схожий (серіал до речі геніальний -- є весь на ютубі, моя улюблена сцена осьо <a href=\"https://youtu.be/q9is5gJORl4?si=6enfnBQFJWUhirPk\" rel=\"nofollow\">youtu.be/q9is5gJORl4?si=6enfnBQFJWUhirPk</a></p><p>Щодо самого фільму: сподобався нелінійний, багатоперспективний наратив</p><p>Sarah Polley це інстант краш</p>",
+      "review_text": "По стилю зйомки нагадало Spaced 1999-2001 -- не знаю чому, може просто обидва добре передають late-90s youth culture, а може просто ритмічний монтаж під музику схожий (серіал до речі геніальний -- є весь на ютубі, моя улюблена сцена осьо youtu.be/q9is5gJORl4?si=6enfnBQFJWUhirPk\n\nЩодо самого фільму: сподобався нелінійний, багатоперспективний наратив\n\nSarah Polley це інстант краш",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-10-28T10:32:12+00:00",
+      "updated_at": "2026-10-28T10:32:12+00:00"
+    },
+    {
       "guid": "letterboxd-review-1556076186",
       "type": "review",
       "title": "Fargo, 1996 - ★★★★½",
