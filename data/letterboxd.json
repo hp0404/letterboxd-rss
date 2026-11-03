@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1569420930",
+      "type": "review",
+      "title": "Falling Down, 1993 - ★★★½",
+      "film_title": "Falling Down",
+      "film_year": 1993,
+      "tmdb_movie_id": 37094,
+      "member_rating": 3.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-11-02",
+      "pub_date": "2026-11-03T08:52:17+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/falling-down/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/3/2/2/27322-falling-down-0-600-0-900-crop.jpg?v=3315b39694",
+      "review_html": "<p>What a cool movie! I&#039;ve never been to LA, but I swear this is exactly how I imagined it while playing San Andreas. I also liked the story -- this is what a bad day feels like. Now, of course, a movie with Michael Douglas in it has to be punished with a half-star deduction, but it&#039;s ok overall</p>",
+      "review_text": "What a cool movie! I've never been to LA, but I swear this is exactly how I imagined it while playing San Andreas. I also liked the story -- this is what a bad day feels like. Now, of course, a movie with Michael Douglas in it has to be punished with a half-star deduction, but it's ok overall",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-03T11:53:17+00:00",
+      "updated_at": "2026-11-03T11:53:17+00:00"
+    },
+    {
       "guid": "letterboxd-review-1567909800",
       "type": "review",
       "title": "Spaced: Skip to the End, 2004 - ★★★★★",
