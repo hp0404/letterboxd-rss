@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1571116913",
+      "type": "review",
+      "title": "Normal, 2025 - ★★½",
+      "film_title": "Normal",
+      "film_year": 2025,
+      "tmdb_movie_id": 1242332,
+      "member_rating": 2.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-11-03",
+      "pub_date": "2026-11-04T11:52:25+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/normal-2025/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/9/7/5/1124975-normal-2025-0-600-0-900-crop.jpg?v=2ba947c8d9",
+      "review_html": "<p>this is only normal in US</p>",
+      "review_text": "this is only normal in US",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-04T12:03:43+00:00",
+      "updated_at": "2026-11-04T12:03:43+00:00"
+    },
+    {
       "guid": "letterboxd-review-1569420930",
       "type": "review",
       "title": "Falling Down, 1993 - ★★★½",
