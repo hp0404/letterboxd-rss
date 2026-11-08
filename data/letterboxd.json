@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1576561241",
+      "type": "review",
+      "title": "Born on the Fourth of July, 1989 - ★★★★",
+      "film_title": "Born on the Fourth of July",
+      "film_year": 1989,
+      "tmdb_movie_id": 2604,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-11-07",
+      "pub_date": "2026-11-08T11:23:31+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/born-on-the-fourth-of-july/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/1/9/6/50196-born-on-the-fourth-of-july-0-600-0-900-crop.jpg?v=d35a8cecf1",
+      "review_html": "<p>It&#039;s a tale as old as time. I love Oliver Stone&#039;s anti-war films. They&#039;re incredibly hard to watch, but they reveal truths that remain relevant far beyond the context of the Vietnam War</p>",
+      "review_text": "It's a tale as old as time. I love Oliver Stone's anti-war films. They're incredibly hard to watch, but they reveal truths that remain relevant far beyond the context of the Vietnam War",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-08T11:14:46+00:00",
+      "updated_at": "2026-11-08T11:14:46+00:00"
+    },
+    {
       "guid": "letterboxd-review-1573559330",
       "type": "review",
       "title": "The Daytrippers, 1996 - ★★★★★",
