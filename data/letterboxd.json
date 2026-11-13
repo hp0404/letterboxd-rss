@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-watch-1583783894",
+      "type": "watch",
+      "title": "Love of Your Life, 2026 - ★½",
+      "film_title": "Love of Your Life",
+      "film_year": 2026,
+      "tmdb_movie_id": 1381078,
+      "member_rating": 1.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-11-12",
+      "pub_date": "2026-11-13T08:35:44+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/love-of-your-life/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=7a6d5c6675",
+      "review_html": null,
+      "review_text": null,
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-13T12:08:24+00:00",
+      "updated_at": "2026-11-13T12:08:24+00:00"
+    },
+    {
       "guid": "letterboxd-review-1579893982",
       "type": "review",
       "title": "McCabe & Mrs. Miller, 1971 - ★★★★½",
