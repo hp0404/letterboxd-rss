@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1590017094",
+      "type": "review",
+      "title": "Ladies First, 2026 - ½",
+      "film_title": "Ladies First",
+      "film_year": 2026,
+      "tmdb_movie_id": 1368881,
+      "member_rating": 0.5,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-11-16",
+      "pub_date": "2026-11-17T09:47:28+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/ladies-first-2026/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/6/1/1/5/1256115-ladies-first-2026-0-600-0-900-crop.jpg?v=81efe9e2c7",
+      "review_html": "<p>убога примітивщина</p>",
+      "review_text": "убога примітивщина",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-17T13:17:42+00:00",
+      "updated_at": "2026-11-17T13:17:42+00:00"
+    },
+    {
       "guid": "letterboxd-review-1586780345",
       "type": "review",
       "title": "Wild Horse Nine, 2026 - ★★★",
