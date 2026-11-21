@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1595015095",
+      "type": "review",
+      "title": "Point Break, 1991 - ★★★★★",
+      "film_title": "Point Break",
+      "film_year": 1991,
+      "tmdb_movie_id": 1089,
+      "member_rating": 5.0,
+      "member_like": true,
+      "rewatch": true,
+      "watched_date": "2026-11-20",
+      "pub_date": "2026-11-21T10:38:32+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/point-break/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/1/5/7/51157-point-break-0-600-0-900-crop.jpg?v=3cd33a67b2",
+      "review_html": "<p>Feedback from a Gen Z friend who never watches movies: “If this were Mossad, this movie would be an Instagram Reel.”</p>",
+      "review_text": "Feedback from a Gen Z friend who never watches movies: “If this were Mossad, this movie would be an Instagram Reel.”",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-21T12:35:00+00:00",
+      "updated_at": "2026-11-21T12:35:00+00:00"
+    },
+    {
       "guid": "letterboxd-review-1591453826",
       "type": "review",
       "title": "Dogtooth, 2009 - ½",
