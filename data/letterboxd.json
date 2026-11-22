@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1596693897",
+      "type": "review",
+      "title": "Lost Highway, 1997 - ★★",
+      "film_title": "Lost Highway",
+      "film_year": 1997,
+      "tmdb_movie_id": 638,
+      "member_rating": 2.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-11-21",
+      "pub_date": "2026-11-22T10:00:15+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/lost-highway/",
+      "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f",
+      "review_html": "<p>The real mystery is who watched this entire movie.</p><p>This is genuinely one of the worst movies I’ve ever seen. David Lynch is among the most overrated directors of all time</p>",
+      "review_text": "The real mystery is who watched this entire movie.\n\nThis is genuinely one of the worst movies I’ve ever seen. David Lynch is among the most overrated directors of all time",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-22T12:32:09+00:00",
+      "updated_at": "2026-11-22T12:32:09+00:00"
+    },
+    {
       "guid": "letterboxd-review-1595015095",
       "type": "review",
       "title": "Point Break, 1991 - ★★★★★",
