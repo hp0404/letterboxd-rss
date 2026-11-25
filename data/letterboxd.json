@@ -3,6 +3,27 @@
   "feed_url": "https://letterboxd.com/bugfreedisco/rss/",
   "entries": [
     {
+      "guid": "letterboxd-review-1601491318",
+      "type": "review",
+      "title": "La Bola Negra, 2026 - ★★★★",
+      "film_title": "La Bola Negra",
+      "film_year": 2026,
+      "tmdb_movie_id": 1422041,
+      "member_rating": 4.0,
+      "member_like": false,
+      "rewatch": false,
+      "watched_date": "2026-11-24",
+      "pub_date": "2026-11-25T11:23:13+13:00",
+      "link": "https://letterboxd.com/bugfreedisco/film/la-bola-negra/",
+      "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/0/3/0/1302030-la-bola-negra-0-600-0-900-crop.jpg?v=d8dd544a16",
+      "review_html": "<p>I think this is one of those movies where it makes sense to read more about the actual events and people mentioned to get more out of the story. Visually, it&#039;s very good. Structurally, the movie is interesting, and technically, it&#039;s almost perfect if we&#039;re talking about the camerawork, colors, etc.</p><p>The jumps in time are annoying at first as you&#039;re getting into the plot, but it all comes together later on. I&#039;m thinking now about In die Sonne schauen 2025 where it was way more confusing.</p><p>The movie is still too long -- certain scenes and characters could&#039;ve been cut, and it wouldn&#039;t have made the movie any worse.</p><p>I&#039;d say, go see it for the experience of going to the movies if you have three hours to spare and are in the mood for an emotional story</p>",
+      "review_text": "I think this is one of those movies where it makes sense to read more about the actual events and people mentioned to get more out of the story. Visually, it's very good. Structurally, the movie is interesting, and technically, it's almost perfect if we're talking about the camerawork, colors, etc.\n\nThe jumps in time are annoying at first as you're getting into the plot, but it all comes together later on. I'm thinking now about In die Sonne schauen 2025 where it was way more confusing.\n\nThe movie is still too long -- certain scenes and characters could've been cut, and it wouldn't have made the movie any worse.\n\nI'd say, go see it for the experience of going to the movies if you have three hours to spare and are in the mood for an emotional story",
+      "like_count": null,
+      "comment_count": null,
+      "first_seen_at": "2026-11-25T14:15:38+00:00",
+      "updated_at": "2026-11-25T14:15:38+00:00"
+    },
+    {
       "guid": "letterboxd-review-1596693897",
       "type": "review",
       "title": "Lost Highway, 1997 - ★★",
@@ -10697,10 +10718,10 @@
       "guid": "letterboxd-list-82088800",
       "title": "top 2026",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2026/",
-      "description_html": "<p>to be updated</p> <ul> <li> <a href=\"https://letterboxd.com/film/fatherland-2026/\">Fatherland</a> </li> <li> <a href=\"https://letterboxd.com/film/rose-2026/\">Rose</a> </li> <li> <a href=\"https://letterboxd.com/film/primetime-2026/\">Primetime</a> </li> <li> <a href=\"https://letterboxd.com/film/yellow-letters/\">Yellow Letters</a> </li> </ul>",
+      "description_html": "<p>to be updated</p> <ul> <li> <a href=\"https://letterboxd.com/film/fatherland-2026/\">Fatherland</a> </li> <li> <a href=\"https://letterboxd.com/film/rose-2026/\">Rose</a> </li> <li> <a href=\"https://letterboxd.com/film/the-invite-2026/\">The Invite</a> </li> <li> <a href=\"https://letterboxd.com/film/wild-horse-nine/\">Wild Horse Nine</a> </li> <li> <a href=\"https://letterboxd.com/film/teenage-sex-and-death-at-camp-miasma/\">Teenage Sex and Death at Camp Miasma</a> </li> <li> <a href=\"https://letterboxd.com/film/la-bola-negra/\">La Bola Negra</a> </li> <li> <a href=\"https://letterboxd.com/film/primetime-2026/\">Primetime</a> </li> <li> <a href=\"https://letterboxd.com/film/yellow-letters/\">Yellow Letters</a> </li> <li> <a href=\"https://letterboxd.com/film/the-drama/\">The Drama</a> </li> <li> <a href=\"https://letterboxd.com/film/backrooms-2026/\">Backrooms</a> </li> </ul>",
       "pub_date": "2026-03-30T11:54:40+13:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-10-20T09:23:22+00:00",
+      "updated_at": "2026-11-25T14:15:38+00:00",
       "films": [
         {
           "position": 1,
@@ -10714,13 +10735,43 @@
         },
         {
           "position": 3,
+          "title": "The Invite",
+          "url": "https://letterboxd.com/film/the-invite-2026/"
+        },
+        {
+          "position": 4,
+          "title": "Wild Horse Nine",
+          "url": "https://letterboxd.com/film/wild-horse-nine/"
+        },
+        {
+          "position": 5,
+          "title": "Teenage Sex and Death at Camp Miasma",
+          "url": "https://letterboxd.com/film/teenage-sex-and-death-at-camp-miasma/"
+        },
+        {
+          "position": 6,
+          "title": "La Bola Negra",
+          "url": "https://letterboxd.com/film/la-bola-negra/"
+        },
+        {
+          "position": 7,
           "title": "Primetime",
           "url": "https://letterboxd.com/film/primetime-2026/"
         },
         {
-          "position": 4,
+          "position": 8,
           "title": "Yellow Letters",
           "url": "https://letterboxd.com/film/yellow-letters/"
+        },
+        {
+          "position": 9,
+          "title": "The Drama",
+          "url": "https://letterboxd.com/film/the-drama/"
+        },
+        {
+          "position": 10,
+          "title": "Backrooms",
+          "url": "https://letterboxd.com/film/backrooms-2026/"
         }
       ]
     },
@@ -10728,10 +10779,10 @@
       "guid": "letterboxd-list-80991901",
       "title": "Top 2025",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2025/",
-      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/hamnet/\">Hamnet</a> </li> <li> <a href=\"https://letterboxd.com/film/train-dreams/\">Train Dreams</a> </li> <li> <a href=\"https://letterboxd.com/film/sentimental-value-2025/\">Sentimental Value</a> </li> <li> <a href=\"https://letterboxd.com/film/christy-2025/\">Christy</a> </li> <li> <a href=\"https://letterboxd.com/film/one-battle-after-another/\">One Battle After Another</a> </li> <li> <a href=\"https://letterboxd.com/film/bugonia/\">Bugonia</a> </li> <li> <a href=\"https://letterboxd.com/film/eddington/\">Eddington</a> </li> <li> <a href=\"https://letterboxd.com/film/the-smashing-machine-2025/\">The Smashing Machine</a> </li> </ol>",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/hamnet/\">Hamnet</a> </li> <li> <a href=\"https://letterboxd.com/film/train-dreams/\">Train Dreams</a> </li> <li> <a href=\"https://letterboxd.com/film/sentimental-value-2025/\">Sentimental Value</a> </li> <li> <a href=\"https://letterboxd.com/film/i-swear/\">I Swear</a> </li> <li> <a href=\"https://letterboxd.com/film/one-battle-after-another/\">One Battle After Another</a> </li> <li> <a href=\"https://letterboxd.com/film/a-light-that-never-goes-out/\">A Light That Never Goes Out</a> </li> <li> <a href=\"https://letterboxd.com/film/sound-of-falling/\">Sound of Falling</a> </li> <li> <a href=\"https://letterboxd.com/film/christy-2025/\">Christy</a> </li> <li> <a href=\"https://letterboxd.com/film/eddington/\">Eddington</a> </li> <li> <a href=\"https://letterboxd.com/film/eagles-of-the-republic/\">Eagles of the Republic</a> </li> </ol>",
       "pub_date": "2026-02-24T07:25:02+13:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-09-08T08:50:50+00:00",
+      "updated_at": "2026-11-25T14:15:38+00:00",
       "films": [
         {
           "position": 1,
@@ -10750,8 +10801,8 @@
         },
         {
           "position": 4,
-          "title": "Christy",
-          "url": "https://letterboxd.com/film/christy-2025/"
+          "title": "I Swear",
+          "url": "https://letterboxd.com/film/i-swear/"
         },
         {
           "position": 5,
@@ -10760,18 +10811,28 @@
         },
         {
           "position": 6,
-          "title": "Bugonia",
-          "url": "https://letterboxd.com/film/bugonia/"
+          "title": "A Light That Never Goes Out",
+          "url": "https://letterboxd.com/film/a-light-that-never-goes-out/"
         },
         {
           "position": 7,
+          "title": "Sound of Falling",
+          "url": "https://letterboxd.com/film/sound-of-falling/"
+        },
+        {
+          "position": 8,
+          "title": "Christy",
+          "url": "https://letterboxd.com/film/christy-2025/"
+        },
+        {
+          "position": 9,
           "title": "Eddington",
           "url": "https://letterboxd.com/film/eddington/"
         },
         {
-          "position": 8,
-          "title": "The Smashing Machine",
-          "url": "https://letterboxd.com/film/the-smashing-machine-2025/"
+          "position": 10,
+          "title": "Eagles of the Republic",
+          "url": "https://letterboxd.com/film/eagles-of-the-republic/"
         }
       ]
     },
@@ -10810,10 +10871,10 @@
       "guid": "letterboxd-list-80991648",
       "title": "Top 2024",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2024/",
-      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/u-are-the-universe/\">U Are the Universe</a> </li> <li> <a href=\"https://letterboxd.com/film/the-life-of-chuck/\">The Life of Chuck</a> </li> <li> <a href=\"https://letterboxd.com/film/kneecap/\">Kneecap</a> </li> <li> <a href=\"https://letterboxd.com/film/the-order-2024/\">The Order</a> </li> <li> <a href=\"https://letterboxd.com/film/horizon-an-american-saga-chapter-1/\">Horizon: An American Saga – Chapter 1</a> </li> </ol>",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/u-are-the-universe/\">U Are the Universe</a> </li> <li> <a href=\"https://letterboxd.com/film/the-life-of-chuck/\">The Life of Chuck</a> </li> <li> <a href=\"https://letterboxd.com/film/the-brutalist/\">The Brutalist</a> </li> <li> <a href=\"https://letterboxd.com/film/kneecap/\">Kneecap</a> </li> <li> <a href=\"https://letterboxd.com/film/alien-romulus/\">Alien: Romulus</a> </li> <li> <a href=\"https://letterboxd.com/film/the-order-2024/\">The Order</a> </li> <li> <a href=\"https://letterboxd.com/film/horizon-an-american-saga-chapter-1/\">Horizon: An American Saga – Chapter 1</a> </li> <li> <a href=\"https://letterboxd.com/film/flow-2024/\">Flow</a> </li> <li> <a href=\"https://letterboxd.com/film/longlegs/\">Longlegs</a> </li> <li> <a href=\"https://letterboxd.com/film/from-hilde-with-love/\">From Hilde, with Love</a> </li> </ol>",
       "pub_date": "2026-02-24T07:16:05+13:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-06-12T16:26:44+00:00",
+      "updated_at": "2026-11-25T14:15:38+00:00",
       "films": [
         {
           "position": 1,
@@ -10827,18 +10888,43 @@
         },
         {
           "position": 3,
+          "title": "The Brutalist",
+          "url": "https://letterboxd.com/film/the-brutalist/"
+        },
+        {
+          "position": 4,
           "title": "Kneecap",
           "url": "https://letterboxd.com/film/kneecap/"
         },
         {
-          "position": 4,
+          "position": 5,
+          "title": "Alien: Romulus",
+          "url": "https://letterboxd.com/film/alien-romulus/"
+        },
+        {
+          "position": 6,
           "title": "The Order",
           "url": "https://letterboxd.com/film/the-order-2024/"
         },
         {
-          "position": 5,
+          "position": 7,
           "title": "Horizon: An American Saga – Chapter 1",
           "url": "https://letterboxd.com/film/horizon-an-american-saga-chapter-1/"
+        },
+        {
+          "position": 8,
+          "title": "Flow",
+          "url": "https://letterboxd.com/film/flow-2024/"
+        },
+        {
+          "position": 9,
+          "title": "Longlegs",
+          "url": "https://letterboxd.com/film/longlegs/"
+        },
+        {
+          "position": 10,
+          "title": "From Hilde, with Love",
+          "url": "https://letterboxd.com/film/from-hilde-with-love/"
         }
       ]
     },
