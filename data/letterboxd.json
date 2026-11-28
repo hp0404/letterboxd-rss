@@ -10715,6 +10715,372 @@
   ],
   "lists": [
     {
+      "guid": "letterboxd-list-90034326",
+      "title": "December Movies",
+      "link": "https://letterboxd.com/bugfreedisco/list/december-movies/",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/love-actually/\">Love Actually</a> </li> <li> <a href=\"https://letterboxd.com/film/the-family-man/\">The Family Man</a> </li> <li> <a href=\"https://letterboxd.com/film/home-alone/\">Home Alone</a> </li> <li> <a href=\"https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/\">Harry Potter and the Philosopher&#039;s Stone</a> </li> <li> <a href=\"https://letterboxd.com/film/die-hard/\">Die Hard</a> </li> <li> <a href=\"https://letterboxd.com/film/the-holiday/\">The Holiday</a> </li> <li> <a href=\"https://letterboxd.com/film/the-holdovers/\">The Holdovers</a> </li> </ol>",
+      "pub_date": "2026-11-28T11:33:03+13:00",
+      "first_seen_at": "2026-11-28T12:56:18+00:00",
+      "updated_at": "2026-11-28T12:56:18+00:00",
+      "films": [
+        {
+          "position": 1,
+          "title": "Love Actually",
+          "url": "https://letterboxd.com/film/love-actually/"
+        },
+        {
+          "position": 2,
+          "title": "The Family Man",
+          "url": "https://letterboxd.com/film/the-family-man/"
+        },
+        {
+          "position": 3,
+          "title": "Home Alone",
+          "url": "https://letterboxd.com/film/home-alone/"
+        },
+        {
+          "position": 4,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "url": "https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/"
+        },
+        {
+          "position": 5,
+          "title": "Die Hard",
+          "url": "https://letterboxd.com/film/die-hard/"
+        },
+        {
+          "position": 6,
+          "title": "The Holiday",
+          "url": "https://letterboxd.com/film/the-holiday/"
+        },
+        {
+          "position": 7,
+          "title": "The Holdovers",
+          "url": "https://letterboxd.com/film/the-holdovers/"
+        }
+      ]
+    },
+    {
+      "guid": "letterboxd-list-90026533",
+      "title": "Top 2000s",
+      "link": "https://letterboxd.com/bugfreedisco/list/top-2000s/",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/kingdom-of-heaven/\">Kingdom of Heaven</a> </li> <li> <a href=\"https://letterboxd.com/film/there-will-be-blood/\">There Will Be Blood</a> </li> <li> <a href=\"https://letterboxd.com/film/no-country-for-old-men/\">No Country for Old Men</a> </li> <li> <a href=\"https://letterboxd.com/film/y-tu-mama-tambien/\">Y Tu Mamá También</a> </li> <li> <a href=\"https://letterboxd.com/film/in-bruges/\">In Bruges</a> </li> <li> <a href=\"https://letterboxd.com/film/head-on-2004/\">Head-On</a> </li> <li> <a href=\"https://letterboxd.com/film/gladiator-2000/\">Gladiator</a> </li> <li> <a href=\"https://letterboxd.com/film/the-family-man/\">The Family Man</a> </li> <li> <a href=\"https://letterboxd.com/film/bridge-to-terabithia/\">Bridge to Terabithia</a> </li> <li> <a href=\"https://letterboxd.com/film/love-actually/\">Love Actually</a> </li> </ol> <p>...plus 21 more. <a href=\"https://letterboxd.com/bugfreedisco/list/top-2000s/\">View the full list on Letterboxd</a>.</p>",
+      "pub_date": "2026-11-28T06:34:35+13:00",
+      "first_seen_at": "2026-11-28T12:56:18+00:00",
+      "updated_at": "2026-11-28T12:56:18+00:00",
+      "films": [
+        {
+          "position": 1,
+          "title": "Kingdom of Heaven",
+          "url": "https://letterboxd.com/film/kingdom-of-heaven/"
+        },
+        {
+          "position": 2,
+          "title": "There Will Be Blood",
+          "url": "https://letterboxd.com/film/there-will-be-blood/"
+        },
+        {
+          "position": 3,
+          "title": "No Country for Old Men",
+          "url": "https://letterboxd.com/film/no-country-for-old-men/"
+        },
+        {
+          "position": 4,
+          "title": "Y Tu Mamá También",
+          "url": "https://letterboxd.com/film/y-tu-mama-tambien/"
+        },
+        {
+          "position": 5,
+          "title": "In Bruges",
+          "url": "https://letterboxd.com/film/in-bruges/"
+        },
+        {
+          "position": 6,
+          "title": "Head-On",
+          "url": "https://letterboxd.com/film/head-on-2004/"
+        },
+        {
+          "position": 7,
+          "title": "Gladiator",
+          "url": "https://letterboxd.com/film/gladiator-2000/"
+        },
+        {
+          "position": 8,
+          "title": "The Family Man",
+          "url": "https://letterboxd.com/film/the-family-man/"
+        },
+        {
+          "position": 9,
+          "title": "Bridge to Terabithia",
+          "url": "https://letterboxd.com/film/bridge-to-terabithia/"
+        },
+        {
+          "position": 10,
+          "title": "Love Actually",
+          "url": "https://letterboxd.com/film/love-actually/"
+        },
+        {
+          "position": 11,
+          "title": "View the full list on Letterboxd",
+          "url": "https://letterboxd.com/bugfreedisco/list/top-2000s/"
+        }
+      ]
+    },
+    {
+      "guid": "letterboxd-list-90026236",
+      "title": "Top 2010s",
+      "link": "https://letterboxd.com/bugfreedisco/list/top-2010s/",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/once-upon-a-time-in-hollywood/\">Once Upon a Time... in Hollywood</a> </li> <li> <a href=\"https://letterboxd.com/film/paterson/\">Paterson</a> </li> <li> <a href=\"https://letterboxd.com/film/drive-2011/\">Drive</a> </li> <li> <a href=\"https://letterboxd.com/film/they-shall-not-grow-old/\">They Shall Not Grow Old</a> </li> <li> <a href=\"https://letterboxd.com/film/the-guard/\">The Guard</a> </li> <li> <a href=\"https://letterboxd.com/film/prisoners/\">Prisoners</a> </li> <li> <a href=\"https://letterboxd.com/film/the-lighthouse-2019/\">The Lighthouse</a> </li> <li> <a href=\"https://letterboxd.com/film/frances-ha/\">Frances Ha</a> </li> <li> <a href=\"https://letterboxd.com/film/midsommar/\">Midsommar</a> </li> <li> <a href=\"https://letterboxd.com/film/the-wolf-of-wall-street/\">The Wolf of Wall Street</a> </li> </ol> <p>...plus 2 more. <a href=\"https://letterboxd.com/bugfreedisco/list/top-2010s/\">View the full list on Letterboxd</a>.</p>",
+      "pub_date": "2026-11-28T06:23:17+13:00",
+      "first_seen_at": "2026-11-28T12:56:18+00:00",
+      "updated_at": "2026-11-28T12:56:18+00:00",
+      "films": [
+        {
+          "position": 1,
+          "title": "Once Upon a Time... in Hollywood",
+          "url": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/"
+        },
+        {
+          "position": 2,
+          "title": "Paterson",
+          "url": "https://letterboxd.com/film/paterson/"
+        },
+        {
+          "position": 3,
+          "title": "Drive",
+          "url": "https://letterboxd.com/film/drive-2011/"
+        },
+        {
+          "position": 4,
+          "title": "They Shall Not Grow Old",
+          "url": "https://letterboxd.com/film/they-shall-not-grow-old/"
+        },
+        {
+          "position": 5,
+          "title": "The Guard",
+          "url": "https://letterboxd.com/film/the-guard/"
+        },
+        {
+          "position": 6,
+          "title": "Prisoners",
+          "url": "https://letterboxd.com/film/prisoners/"
+        },
+        {
+          "position": 7,
+          "title": "The Lighthouse",
+          "url": "https://letterboxd.com/film/the-lighthouse-2019/"
+        },
+        {
+          "position": 8,
+          "title": "Frances Ha",
+          "url": "https://letterboxd.com/film/frances-ha/"
+        },
+        {
+          "position": 9,
+          "title": "Midsommar",
+          "url": "https://letterboxd.com/film/midsommar/"
+        },
+        {
+          "position": 10,
+          "title": "The Wolf of Wall Street",
+          "url": "https://letterboxd.com/film/the-wolf-of-wall-street/"
+        },
+        {
+          "position": 11,
+          "title": "View the full list on Letterboxd",
+          "url": "https://letterboxd.com/bugfreedisco/list/top-2010s/"
+        }
+      ]
+    },
+    {
+      "guid": "letterboxd-list-90026158",
+      "title": "Top 2020s",
+      "link": "https://letterboxd.com/bugfreedisco/list/top-2020s/",
+      "description_html": "<p>as of 2026-11-27</p> <ol> <li> <a href=\"https://letterboxd.com/film/licorice-pizza/\">Licorice Pizza</a> </li> <li> <a href=\"https://letterboxd.com/film/stop-zemlia/\">Stop-Zemlia</a> </li> <li> <a href=\"https://letterboxd.com/film/all-of-us-strangers/\">All of Us Strangers</a> </li> <li> <a href=\"https://letterboxd.com/film/la-palisiada/\">La Palisiada</a> </li> <li> <a href=\"https://letterboxd.com/film/the-life-of-chuck/\">The Life of Chuck</a> </li> <li> <a href=\"https://letterboxd.com/film/the-green-knight/\">The Green Knight</a> </li> <li> <a href=\"https://letterboxd.com/film/another-round/\">Another Round</a> </li> <li> <a href=\"https://letterboxd.com/film/barbie/\">Barbie</a> </li> <li> <a href=\"https://letterboxd.com/film/the-starling-girl/\">The Starling Girl</a> </li> <li> <a href=\"https://letterboxd.com/film/luxembourg-luxembourg/\">Luxembourg, Luxembourg</a> </li> </ol> <p>...plus 6 more. <a href=\"https://letterboxd.com/bugfreedisco/list/top-2020s/\">View the full list on Letterboxd</a>.</p>",
+      "pub_date": "2026-11-28T06:19:33+13:00",
+      "first_seen_at": "2026-11-28T12:56:18+00:00",
+      "updated_at": "2026-11-28T12:56:18+00:00",
+      "films": [
+        {
+          "position": 1,
+          "title": "Licorice Pizza",
+          "url": "https://letterboxd.com/film/licorice-pizza/"
+        },
+        {
+          "position": 2,
+          "title": "Stop-Zemlia",
+          "url": "https://letterboxd.com/film/stop-zemlia/"
+        },
+        {
+          "position": 3,
+          "title": "All of Us Strangers",
+          "url": "https://letterboxd.com/film/all-of-us-strangers/"
+        },
+        {
+          "position": 4,
+          "title": "La Palisiada",
+          "url": "https://letterboxd.com/film/la-palisiada/"
+        },
+        {
+          "position": 5,
+          "title": "The Life of Chuck",
+          "url": "https://letterboxd.com/film/the-life-of-chuck/"
+        },
+        {
+          "position": 6,
+          "title": "The Green Knight",
+          "url": "https://letterboxd.com/film/the-green-knight/"
+        },
+        {
+          "position": 7,
+          "title": "Another Round",
+          "url": "https://letterboxd.com/film/another-round/"
+        },
+        {
+          "position": 8,
+          "title": "Barbie",
+          "url": "https://letterboxd.com/film/barbie/"
+        },
+        {
+          "position": 9,
+          "title": "The Starling Girl",
+          "url": "https://letterboxd.com/film/the-starling-girl/"
+        },
+        {
+          "position": 10,
+          "title": "Luxembourg, Luxembourg",
+          "url": "https://letterboxd.com/film/luxembourg-luxembourg/"
+        },
+        {
+          "position": 11,
+          "title": "View the full list on Letterboxd",
+          "url": "https://letterboxd.com/bugfreedisco/list/top-2020s/"
+        }
+      ]
+    },
+    {
+      "guid": "letterboxd-list-90026043",
+      "title": "Top 2020",
+      "link": "https://letterboxd.com/bugfreedisco/list/top-2020/",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/another-round/\">Another Round</a> </li> <li> <a href=\"https://letterboxd.com/film/mustache-funk/\">Mustache Funk</a> </li> <li> <a href=\"https://letterboxd.com/film/berlin-alexanderplatz-2020/\">Berlin Alexanderplatz</a> </li> <li> <a href=\"https://letterboxd.com/film/mank/\">Mank</a> </li> <li> <a href=\"https://letterboxd.com/film/yours-vasyl/\">Yours Vasyl</a> </li> <li> <a href=\"https://letterboxd.com/film/kachalka/\">Kachalka</a> </li> <li> <a href=\"https://letterboxd.com/film/uke/\">UKE</a> </li> <li> <a href=\"https://letterboxd.com/film/my-salinger-year/\">My Salinger Year</a> </li> <li> <a href=\"https://letterboxd.com/film/the-nest-2020/\">The Nest</a> </li> <li> <a href=\"https://letterboxd.com/film/nomadland/\">Nomadland</a> </li> </ol>",
+      "pub_date": "2026-11-28T06:14:27+13:00",
+      "first_seen_at": "2026-11-28T12:56:18+00:00",
+      "updated_at": "2026-11-28T12:56:18+00:00",
+      "films": [
+        {
+          "position": 1,
+          "title": "Another Round",
+          "url": "https://letterboxd.com/film/another-round/"
+        },
+        {
+          "position": 2,
+          "title": "Mustache Funk",
+          "url": "https://letterboxd.com/film/mustache-funk/"
+        },
+        {
+          "position": 3,
+          "title": "Berlin Alexanderplatz",
+          "url": "https://letterboxd.com/film/berlin-alexanderplatz-2020/"
+        },
+        {
+          "position": 4,
+          "title": "Mank",
+          "url": "https://letterboxd.com/film/mank/"
+        },
+        {
+          "position": 5,
+          "title": "Yours Vasyl",
+          "url": "https://letterboxd.com/film/yours-vasyl/"
+        },
+        {
+          "position": 6,
+          "title": "Kachalka",
+          "url": "https://letterboxd.com/film/kachalka/"
+        },
+        {
+          "position": 7,
+          "title": "UKE",
+          "url": "https://letterboxd.com/film/uke/"
+        },
+        {
+          "position": 8,
+          "title": "My Salinger Year",
+          "url": "https://letterboxd.com/film/my-salinger-year/"
+        },
+        {
+          "position": 9,
+          "title": "The Nest",
+          "url": "https://letterboxd.com/film/the-nest-2020/"
+        },
+        {
+          "position": 10,
+          "title": "Nomadland",
+          "url": "https://letterboxd.com/film/nomadland/"
+        }
+      ]
+    },
+    {
+      "guid": "letterboxd-list-90025953",
+      "title": "Top 2021",
+      "link": "https://letterboxd.com/bugfreedisco/list/top-2021/",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/stop-zemlia/\">Stop-Zemlia</a> </li> <li> <a href=\"https://letterboxd.com/film/licorice-pizza/\">Licorice Pizza</a> </li> <li> <a href=\"https://letterboxd.com/film/the-green-knight/\">The Green Knight</a> </li> <li> <a href=\"https://letterboxd.com/film/the-electrical-life-of-louis-wain/\">The Electrical Life of Louis Wain</a> </li> <li> <a href=\"https://letterboxd.com/film/the-worst-person-in-the-world/\">The Worst Person in the World</a> </li> <li> <a href=\"https://letterboxd.com/film/the-last-duel-2021/\">The Last Duel</a> </li> <li> <a href=\"https://letterboxd.com/film/dont-look-up-2021/\">Don&#039;t Look Up</a> </li> <li> <a href=\"https://letterboxd.com/film/dune-2021/\">Dune</a> </li> <li> <a href=\"https://letterboxd.com/film/no-sudden-move/\">No Sudden Move</a> </li> <li> <a href=\"https://letterboxd.com/film/the-black-phone/\">The Black Phone</a> </li> </ol>",
+      "pub_date": "2026-11-28T06:11:06+13:00",
+      "first_seen_at": "2026-11-28T12:56:18+00:00",
+      "updated_at": "2026-11-28T12:56:18+00:00",
+      "films": [
+        {
+          "position": 1,
+          "title": "Stop-Zemlia",
+          "url": "https://letterboxd.com/film/stop-zemlia/"
+        },
+        {
+          "position": 2,
+          "title": "Licorice Pizza",
+          "url": "https://letterboxd.com/film/licorice-pizza/"
+        },
+        {
+          "position": 3,
+          "title": "The Green Knight",
+          "url": "https://letterboxd.com/film/the-green-knight/"
+        },
+        {
+          "position": 4,
+          "title": "The Electrical Life of Louis Wain",
+          "url": "https://letterboxd.com/film/the-electrical-life-of-louis-wain/"
+        },
+        {
+          "position": 5,
+          "title": "The Worst Person in the World",
+          "url": "https://letterboxd.com/film/the-worst-person-in-the-world/"
+        },
+        {
+          "position": 6,
+          "title": "The Last Duel",
+          "url": "https://letterboxd.com/film/the-last-duel-2021/"
+        },
+        {
+          "position": 7,
+          "title": "Don't Look Up",
+          "url": "https://letterboxd.com/film/dont-look-up-2021/"
+        },
+        {
+          "position": 8,
+          "title": "Dune",
+          "url": "https://letterboxd.com/film/dune-2021/"
+        },
+        {
+          "position": 9,
+          "title": "No Sudden Move",
+          "url": "https://letterboxd.com/film/no-sudden-move/"
+        },
+        {
+          "position": 10,
+          "title": "The Black Phone",
+          "url": "https://letterboxd.com/film/the-black-phone/"
+        }
+      ]
+    },
+    {
       "guid": "letterboxd-list-82088800",
       "title": "top 2026",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2026/",
@@ -10840,10 +11206,10 @@
       "guid": "letterboxd-list-80991722",
       "title": "Top 2022",
       "link": "https://letterboxd.com/bugfreedisco/list/top-2022/",
-      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/luxembourg-luxembourg/\">Luxembourg, Luxembourg</a> </li> <li> <a href=\"https://letterboxd.com/film/the-banshees-of-inisherin/\">The Banshees of Inisherin</a> </li> <li> <a href=\"https://letterboxd.com/film/sick-of-myself/\">Sick of Myself</a> </li> <li> <a href=\"https://letterboxd.com/film/aftersun/\">Aftersun</a> </li> </ol>",
+      "description_html": "<ol> <li> <a href=\"https://letterboxd.com/film/luxembourg-luxembourg/\">Luxembourg, Luxembourg</a> </li> <li> <a href=\"https://letterboxd.com/film/rock-paper-grenade/\">Rock Paper Grenade</a> </li> <li> <a href=\"https://letterboxd.com/film/the-batman/\">The Batman</a> </li> <li> <a href=\"https://letterboxd.com/film/the-banshees-of-inisherin/\">The Banshees of Inisherin</a> </li> <li> <a href=\"https://letterboxd.com/film/aftersun/\">Aftersun</a> </li> <li> <a href=\"https://letterboxd.com/film/sick-of-myself/\">Sick of Myself</a> </li> <li> <a href=\"https://letterboxd.com/film/pamfir/\">Pamfir</a> </li> <li> <a href=\"https://letterboxd.com/film/babylon-2022/\">Babylon</a> </li> <li> <a href=\"https://letterboxd.com/film/the-northman/\">The Northman</a> </li> <li> <a href=\"https://letterboxd.com/film/rhinegold-2022/\">Rhinegold</a> </li> </ol>",
       "pub_date": "2026-02-24T07:18:55+13:00",
       "first_seen_at": "2026-06-12T16:26:44+00:00",
-      "updated_at": "2026-06-12T16:26:44+00:00",
+      "updated_at": "2026-11-28T12:56:18+00:00",
       "films": [
         {
           "position": 1,
@@ -10852,18 +11218,48 @@
         },
         {
           "position": 2,
+          "title": "Rock Paper Grenade",
+          "url": "https://letterboxd.com/film/rock-paper-grenade/"
+        },
+        {
+          "position": 3,
+          "title": "The Batman",
+          "url": "https://letterboxd.com/film/the-batman/"
+        },
+        {
+          "position": 4,
           "title": "The Banshees of Inisherin",
           "url": "https://letterboxd.com/film/the-banshees-of-inisherin/"
         },
         {
-          "position": 3,
+          "position": 5,
+          "title": "Aftersun",
+          "url": "https://letterboxd.com/film/aftersun/"
+        },
+        {
+          "position": 6,
           "title": "Sick of Myself",
           "url": "https://letterboxd.com/film/sick-of-myself/"
         },
         {
-          "position": 4,
-          "title": "Aftersun",
-          "url": "https://letterboxd.com/film/aftersun/"
+          "position": 7,
+          "title": "Pamfir",
+          "url": "https://letterboxd.com/film/pamfir/"
+        },
+        {
+          "position": 8,
+          "title": "Babylon",
+          "url": "https://letterboxd.com/film/babylon-2022/"
+        },
+        {
+          "position": 9,
+          "title": "The Northman",
+          "url": "https://letterboxd.com/film/the-northman/"
+        },
+        {
+          "position": 10,
+          "title": "Rhinegold",
+          "url": "https://letterboxd.com/film/rhinegold-2022/"
         }
       ]
     },
